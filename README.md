@@ -12,10 +12,11 @@ The first collumn (Leetcode ID) has link to the respective problem page at Leetc
 
 ## Content
 
-| Leetcode ID | Problem                 | Difficulty | Language of implementation|
-| ----------- | -----------             |----------- |---------------------------|
-| 1           | Two Sum                 | Easy       | Python                    |
-| 2           | Add Two Numbers         | Medium     | Python                    |
-| 7           | Reverse integer         | Medium     | Python                    |
-| 8           | String to integer (atoi)| Medium     | Python                    |
-| 9           | Palindromr Number       | Easy       | Python                    |
+| Leetcode ID | Problem                  | Difficulty | Language of implementation|
+| ----------- | -----------              |----------- |---------------------------|
+| 1           | Two Sum                  | Easy       | Python                    |
+| 2           | Add Two Numbers          | Medium     | Python                    |
+| 7           | Reverse integer          | Medium     | Python                    |
+| 8           | String to integer (atoi) | Medium     | Python                    |
+| 9           | Palindrome Number        | Easy       | Python                    |
+| 11          | Container With Most Water| Medium     | Python                    |
