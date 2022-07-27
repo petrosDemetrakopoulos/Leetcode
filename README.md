@@ -9,7 +9,7 @@ Here is a list of all the tasks along with their id and difficulty.
 The format of each filename is: `'{task_code}-{task_name}.py'`
 
 The following table shows all the problems I have completed in Leetcode.
-The first collumn (`Leetcode ID`) has link to the respective problem page at Leetcode, while the 3rd collumn (`Solution`) links to my solution in this GitHub repo.
+The first column (`Leetcode ID`) has link to the respective problem page at Leetcode, while the 3rd column (`Solution`) links to my solution in this GitHub repo.
 
 ## Content
 
@@ -33,4 +33,5 @@ The first collumn (`Leetcode ID`) has link to the respective problem page at Lee
 | 36 | Valid Sudoku | Medium | [Python](./code/36-ValidSudoku.py)
 | 48 | Rotate Image | Medium | [Python](./code/48-RotateImage.py)
 | 58 | Length of Last Word | Easy | [Python](./code/58-LengthOfLastWord.py)
-| 66 | Plus One | Easy | [Python](./code/66-PlusOne.py)
+| 66 | Plus One  | Easy | [Python](./code/66-PlusOne.py)
+| 67 | Add Binary| Easy | [Python](./code/67-AddBinary.py)
