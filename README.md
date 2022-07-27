@@ -23,3 +23,5 @@ The first collumn (Leetcode ID) has link to the respective problem page at Leetc
 | 11          | Container With Most Water| Medium     | Python                    |
 | 13          | Roman to Integer         | Easy       | Python                    |
 | 14          | Longest Common Prefix    | Easy       | Python                    |
+| 20          | Valid Parentheses        | Easy       | Python                    |
+| 21          | Merge Two Sorted Lists   | Easy       | Python                    |
