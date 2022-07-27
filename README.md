@@ -6,7 +6,7 @@ Of course for the SQL and Bash scripting tasks I used the respective languages.
 
 Here is a list of all the tasks along with their id and difficulty.
 
-The format of each filename is: `'{task_code}-{task_name}.py'`
+The format of each filename is: `'{task_code}-{task_name_camelcase}.py'`
 
 The following table shows all the problems I have completed in Leetcode.
 The first column (`Leetcode ID`) has link to the respective problem page at Leetcode, while the 3rd column (`Solution`) links to my solution in this GitHub repo.
@@ -37,8 +37,10 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 67 | Add Binary| Easy | [Python](./code/67-AddBinary.py)
 | 69 | Sqrt(x)   | Easy | [Python](./code/69-Sqrt(x).py)
 | 104| Maximum Depth of Binary Tree| Easy | [Python](./code/104-MaxDepthOfBinaryTree.py)
+| 121| Best Time to Buy and Sell Stock | Easy| [Python](./code/121-BestTimeToBuyAndSellStock.py)
 | 141| Linked List Cycle | Easy | [Python](./code/141-LinkedListCycle.py)
 | 142| Linked List Cycle II | Medium | [Python](./code/142-LinkedListCycleII.py)
+| 193| Valid Phone Numbers | Easy | [Bash script](./code/193-ValidPhoneNumbers.sh)
 | 287| Find The Duplicate Number | Medium | [Python](./code/287-FindDuplicateNumber.py)
 | 347| Top K Frequent Elements | Medium | [Python](./code/347-TopKFrequentElements.py)
 | 2248| Intersection of Multiple Arrays | Easy | [Python](./code/2248-IntersectionOfMultipleArrays.py)
