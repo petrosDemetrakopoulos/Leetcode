@@ -36,4 +36,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 66 | Plus One  | Easy | [Python](./code/66-PlusOne.py)
 | 67 | Add Binary| Easy | [Python](./code/67-AddBinary.py)
 | 104 | Maximum Depth of Binary Tree| Easy | [Python](./code/104-MaxDepthOfBinaryTree.py)
+| 141 | Linked List Cycle | Easy | [Python](./code/141-LinkedListCycle.py)
+| 142 | Linked List Cycle II | Medium | [Python](./code/142-LinkedListCycleII.py)
+| 287 | Find The Duplicate Number | Medium | [Python](./code/287-FindDuplicateNumber.py)
 | 347 | Top K Frequent Elements | Medium | [Python](./code/347-TopKFrequentElements.py)
