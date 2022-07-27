@@ -26,3 +26,4 @@ The first collumn (`Leetcode ID`) has link to the respective problem page at Lee
 | 20          | Valid Parentheses                     | Easy       | [Python](./code/20-ValidParentheses.py)|
 | 21          | Merge Two Sorted Lists                | Easy       | [Python](./code/21-MergeTwoSortedLists.py)|
 | 26          | Remove Duplicates from Sorted Array   | Easy       | [Python](./code/26-RemoveDuplicatesFromSortedArray.py)|
+| 27          | Remove Element                        | Easy       | [Python](./code/27-RemoveElement.py)
