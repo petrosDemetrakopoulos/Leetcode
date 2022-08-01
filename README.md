@@ -45,6 +45,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 119| Pascal's Triangle II | Easy | [Python](./code/119-PascalTriangleII.py)
 | 121| Best Time to Buy and Sell Stock | Easy| [Python](./code/121-BestTimeToBuyAndSellStock.py)
 | 125| Valid Palindrome | Easy | [Python](./code/125-ValidPalindrome.py)
+| 136| Single Number | Easy | [Python](./code/136-SingleNumber.py)
 | 141| Linked List Cycle | Easy | [Python](./code/141-LinkedListCycle.py)
 | 142| Linked List Cycle II | Medium | [Python](./code/142-LinkedListCycleII.py)
 | 168| Excel Sheet Column Title | Easy | [Python](./code/168-ExcelSheetColumnTitle.py)
