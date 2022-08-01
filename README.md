@@ -53,6 +53,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 171| Excel Sheet Column Number | Easy | [Python](./code/171-ExcelSheetColumnNumber.py)
 | 175| Combine Two Tables | Easy | [SQL](./code/175-CombineTwoTables.sql)
 | 178| Rank Scores | Medium | [SQL](./code/178-RankScores.sql)
+| 181| Employees Earning More Than Their Managers | Easy | [SQL](./code/181-EmployeesEarningMoreThanTheirManagers.sql)
 | 193| Valid Phone Numbers | Easy | [Bash script](./code/193-ValidPhoneNumbers.sh)
 | 242| Valid Anagram | Easy | [Python](./code/242-ValidAnagram.py) 
 | 287| Find The Duplicate Number | Medium | [Python](./code/287-FindDuplicateNumber.py)
