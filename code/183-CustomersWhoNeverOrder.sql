@@ -1,0 +1,1 @@
+SELECT name as 'Customers' from Customers where id not in (SELECT Customers.id from Customers INNER JOIN Orders on Customers.id = Orders.customerId)
