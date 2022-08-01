@@ -60,7 +60,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 344| Reverse String | Easy | [Python](./code/344-ReverseString.py)
 | 347| Top K Frequent Elements | Medium | [Python](./code/347-TopKFrequentElements.py)
 | 1470| Shuffle the Array| Easy | [Python](./code/1470-ShuffleTheArray.py)
-| 1484| Group Sold Products By The Date | [SQL](./code/1484-GroupSoldProductsByTheDate.sql)
+| 1484| Group Sold Products By The Date | Easy | [SQL](./code/1484-GroupSoldProductsByTheDate.sql)
 | 2148| Count Elements With Strictly Smaller and Greater Elements | Easy | [Python](./code/2148-CountElementsWithSmallerAndGreater.py)
 | 2248| Intersection of Multiple Arrays | Easy | [Python](./code/2248-IntersectionOfMultipleArrays.py)
 | 2347| Best Poker Hand | Easy | [Python](./code/2347-BestPokerHand.py)
