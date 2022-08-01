@@ -50,6 +50,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 168| Excel Sheet Column Title | Easy | [Python](./code/168-ExcelSheetColumnTitle.py)
 | 169| Majority Element | Easy | [Python](./code/169-MajorityElement.py)
 | 171| Excel Sheet Column Number | Easy | [Python](./code/171-ExcelSheetColumnNumber.py)
+| 175| Combine Two Tables | Easy | [Python](./code/175-CombineTwoTables.sql)
 | 193| Valid Phone Numbers | Easy | [Bash script](./code/193-ValidPhoneNumbers.sh)
 | 242| Valid Anagram | Easy | [Python](./code/242-ValidAnagram.py) 
 | 287| Find The Duplicate Number | Medium | [Python](./code/287-FindDuplicateNumber.py)
