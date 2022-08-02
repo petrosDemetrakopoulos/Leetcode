@@ -40,6 +40,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 73 | Set Matrix Zeroes| Medium | [Python](./code/73-SetMatrixZeroes.py)
 | 75 | Sort Colors | Medium | [Python](./code/75-SortColors.py)
 | 83 | Remove Duplicates from Sorted List | Easy | [Python](./code/83-RemoveDuplicatesFromSortedList.py)
+| 100| Same Tree | Easy | [Python](./code/100-SameTree.py)
 | 104| Maximum Depth of Binary Tree| Easy | [Python](./code/104-MaxDepthOfBinaryTree.py)
 | 114| Flatten Binary Tree to Linked List | Medium | [Python](./code/114-FlattenBinaryTreeToLinkedList.py)
 | 118| Pascal's Triangle | Easy | [Python](./code/118-PascalTriangle.py)

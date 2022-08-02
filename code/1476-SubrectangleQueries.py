@@ -15,8 +15,8 @@ class SubrectangleQueries(object):
         :type newValue: int
         :rtype: None
         """
-        for i in range(row1,row2+1):
-            for j in range(col1, col2+1):
+        for i in xrange(row1,row2+1):
+            for j in xrange(col1, col2+1):
                 self.rectangle[i][j] = newValue
         
 
