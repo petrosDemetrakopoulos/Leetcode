@@ -102,6 +102,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1114| Print in Order | Easy | [Python](./code/1114-PrintInOrder.py)
 | 1137| N-th Tribonacci Number | Easy | [Python](./code/1137-NthTribonacciNumber.py)
 | 1148| Article Views I | Easy | [Python](./code/1148-ArticleViewsI.sql)
+| 1179| Reformat Department Table | [Python](./code/1179-ReformatDepartmentTable.sql)
 | 1221| Split a String in Balanced Strings | Easy | [Python](./code/1221-SplitAStringInBalancedStrings.py)
 | 1282| Group the People Given the Group Size They Belong To | Medium | [Python](./code/1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo.py)
 | 1470| Shuffle the Array| Easy | [Python](./code/1470-ShuffleTheArray.py)

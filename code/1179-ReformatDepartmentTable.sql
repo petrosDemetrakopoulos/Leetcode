@@ -1,0 +1,13 @@
+select id, 
+sum(case when month = 'Jan' THEN revenue else null end) as 'Jan_Revenue',
+sum(case when month = 'Feb' THEN revenue else null end) as 'Feb_Revenue', 
+sum(case when month = 'Mar' THEN revenue else null end) as 'Mar_Revenue', 
+sum(case when month = 'Apr' THEN revenue else null end) as 'Apr_Revenue',
+sum(case when month = 'May' THEN revenue else null end) as 'May_Revenue',
+sum(case when month = 'Jun' THEN revenue else null end) as 'Jun_Revenue', 
+sum(case when month = 'Jul' THEN revenue else null end) as 'Jul_Revenue',
+sum(case when month = 'Aug' THEN revenue else null end) as 'Aug_Revenue',
+sum(case when month = 'Sep' THEN revenue else null end) as 'Sep_Revenue',
+sum(case when month = 'Oct' THEN revenue else null end) as 'Oct_Revenue',
+sum(case when month = 'Nov' THEN revenue else null end) as 'Nov_Revenue',
+sum(case when month = 'Dec' THEN revenue else null end) as 'Dec_Revenue' from Department group by id
