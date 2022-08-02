@@ -55,6 +55,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 169| Majority Element | Easy | [Python](./code/169-MajorityElement.py)
 | 171| Excel Sheet Column Number | Easy | [Python](./code/171-ExcelSheetColumnNumber.py)
 | 175| Combine Two Tables | Easy | [SQL](./code/175-CombineTwoTables.sql)
+| 176| Second Highest Salary | Medium | [SQL](./code/176-SecondHighestSalary.sql)
 | 178| Rank Scores | Medium | [SQL](./code/178-RankScores.sql)
 | 181| Employees Earning More Than Their Managers | Easy | [SQL](./code/181-EmployeesEarningMoreThanTheirManagers.sql)
 | 182| Duplicate Emails | Easy | [SQL](./code/182-DuplicateEmails.sql)
