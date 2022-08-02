@@ -1,3 +1,3 @@
-SELECT a.name AS "Employee"
+SELECT a.name AS Employee
 FROM employee a, employee b
-WHERE a.managerId = b.id and b.salary < a.salary;
+WHERE a.managerId = b.id AND b.salary < a.salary;
