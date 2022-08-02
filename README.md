@@ -66,6 +66,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 287| Find The Duplicate Number | Medium | [Python](./code/287-FindDuplicateNumber.py)
 | 344| Reverse String | Easy | [Python](./code/344-ReverseString.py)
 | 347| Top K Frequent Elements | Medium | [Python](./code/347-TopKFrequentElements.py)
+| 387| First Unique Character in a String | Easy | [Python](./code/387-FirstUniqueCharacterInAString.py)
 | 535| Encode and Decode TinyURL | Medium | [Python](./code/535-EncodeAndDecodeTinyURL.py)
 | 584| Find Customer Referee | Easy | [SQL](./code/584-FindCustomerReferee.sql)
 | 627| Swap Salary | Easy | [SQL](./code/627-SwapSalary.sql)
