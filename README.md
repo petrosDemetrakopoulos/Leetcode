@@ -93,6 +93,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1795| Rearrange Products Table | [SQL](./code/1795-RearrangeProductsTable.sql)
 | 1828| Queries on Number of Points Inside a Circle | Medium | [Python](./code/1828-QueriesOnNumberOfPointsInsideACircle.py)
 | 1873| Calculate Special Bonus | Easy | [SQL](./code/1873-CalculateSpecialBonus.sql)
+| 2085| Count Common Words With One Occurrence | [Python](./code/2085-CountCommonWordsWithOneOccurrence.py)
 | 2148| Count Elements With Strictly Smaller and Greater Elements | Easy | [Python](./code/2148-CountElementsWithSmallerAndGreater.py)
 | 2248| Intersection of Multiple Arrays | Easy | [Python](./code/2248-IntersectionOfMultipleArrays.py)
 | 2309| Greatest English Letter in Upper and Lower Case | Easy | [Python](./code/2309-GreatesEnglishLetterInUpperAndLowerCase.py)
