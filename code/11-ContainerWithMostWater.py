@@ -6,7 +6,6 @@ class Solution(object):
         """
         crn_water = 0
         res = 0
-        min_height = max(height)
         
         l = 0
         r = len(height) - 1
