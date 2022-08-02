@@ -7,7 +7,7 @@ class Solution(object):
         #for lines
         for i in xrange(len(board)):
             uniques_per_line = []
-            for j in xrange(0,len(board[i])):
+            for j in xrange(len(board[i])):
                 if (board[i][j] != '.'):
                     if (board[i][j] in uniques_per_line or
                 int(board[i][j]) > 9 or int(board[i][j]) < 1):
@@ -32,7 +32,7 @@ class Solution(object):
         crn_ln = 0
         k = 1
         startCol = 0
-        for big in xrange(0,9):
+        for big in xrange(9):
             crn_sq = []
             if big in [3,6]:
                 startCol = 0
