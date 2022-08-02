@@ -10,7 +10,7 @@ class Solution(object):
         res = []
         j = 0 
         k = 0
-        for i in xrange(0, 2*n):
+        for i in xrange(2*n):
             if i % 2 == 0:
                 res.append(list1[j])
                 j += 1

@@ -100,6 +100,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2148| Count Elements With Strictly Smaller and Greater Elements | Easy | [Python](./code/2148-CountElementsWithSmallerAndGreater.py)
 | 2248| Intersection of Multiple Arrays | Easy | [Python](./code/2248-IntersectionOfMultipleArrays.py)
 | 2309| Greatest English Letter in Upper and Lower Case | Easy | [Python](./code/2309-GreatesEnglishLetterInUpperAndLowerCase.py)
+| 2315| Count Asterisks | Easy | [Python](./code/2315-CountAsterisks.py)
 | 2319| Check if Matrix Is X-Matrix | Easy | [Python](./code/2319-CheckIfMatrixIsX-Matrix.py)
 | 2325| Decode the Message | Easy | [Python](./code/2325-DecodeTheMessage.py)
 | 2347| Best Poker Hand | Easy | [Python](./code/2347-BestPokerHand.py)
