@@ -5,9 +5,9 @@ class Solution(object):
         :rtype: List[int]
         """
         sums = []
-        for i in range(len(nums)):
+        for i in xrange(len(nums)):
             crnSum = nums[0]
-            for j in range(1,i + 1):
+            for j in xrange(1,i + 1):
                 crnSum += nums[j]
             sums.append(crnSum)
         return sums
