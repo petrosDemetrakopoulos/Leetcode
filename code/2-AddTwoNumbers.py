@@ -6,9 +6,7 @@ class ListNode(object):
 class Solution(object):
     def insertAfter(self, prev_node, new_data):
  
-        if prev_node is None:
-            print("The given previous node must inLinkedList.")
-            return
+        if prev_node is None: return
   
         new_node = ListNode(new_data, prev_node.next)
         prev_node.next = new_node
@@ -41,8 +39,7 @@ class Solution(object):
         
         res_head = ListNode(result_list[0], None)
         crnNode = res_head
-        prev_node = res_head
-        for i in range(1,len(result_list)):
+        for i in xrange(1,len(result_list)):
             crnNode.next = ListNode(result_list[i], None)
             crnNode = crnNode.next
         return res_head
