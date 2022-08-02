@@ -90,7 +90,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1527| Patients With a Condition | Easy | [SQL](./code/1527-PatientsWithACondition.sql)
 | 1528| Shuffle String | Easy | [Python](./code/1528-ShuffleString.py)
 | 1667| Fix Names in a Table | Easy | [SQL](./code/1667-FixNamesInATable.sql)
-| 1795| Rearrange Products Table | [SQL](./code/1795-RearramgeProductsTable.sql)
+| 1795| Rearrange Products Table | [SQL](./code/1795-RearrangeProductsTable.sql)
 | 1828| Queries on Number of Points Inside a Circle | Medium | [Python](./code/1828-QueriesOnNumberOfPointsInsideACircle.py)
 | 1873| Calculate Special Bonus | Easy | [SQL](./code/1873-CalculateSpecialBonus.sql)
 | 2148| Count Elements With Strictly Smaller and Greater Elements | Easy | [Python](./code/2148-CountElementsWithSmallerAndGreater.py)
