@@ -95,6 +95,8 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 832| Flipping an Image | Easy | [Python](./code/832-FlippingAnImage.py)
 | 867| Transpose Matrix | Easy | [Python](./code/867-TransposeMatrix.py)
 | 876| Middle of the Linked List | Easy | [Python](./code/876-MiddleOfTheLinkedlist.py)
+| 884| Uncommon Words from Two Sentences | Easy | [Python](./code/884-UncommonWordsFromTwoSentences.py) 
+| 1009| Complement of Base 10 Integer | Easy | [Python](./code/1009-CompleentOfBase10Integer.py)
 | 1282| Group the People Given the Group Size They Belong To | Medium | [Python](./code/1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo.py)
 | 1470| Shuffle the Array| Easy | [Python](./code/1470-ShuffleTheArray.py)
 | 1476| Subrectangle Queries | Medium | [Python](./code/1476-SubrectangleQueries.py)
