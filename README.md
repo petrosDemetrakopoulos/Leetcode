@@ -126,6 +126,8 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1281| Subtract the Product and Sum of Digits of an Integer | Easy | [Python](./code/1281-SubstractTheProductAndSumOfDigitsOfAnInteger.py)
 | 1282| Group the People Given the Group Size They Belong To | Medium | [Python](./code/1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo.py)
 | 1342| Number of Steps to Reduce a Number to Zero | Easy | [Python](./code/1342-NumberOfStepsToReduceANumberToZero.py)
+| 1351| Count Negative Numbers in a Sorted Matrix | Easy | [Python](./code/1351-CountNegativeNumbersInASortedMatrix.py)
+| 1365| How Many Numbers Are Smaller Than the Current Number | Easy | [Python](./code/1365-HowManyNumbersAreSmallerThanTheCurrentNumber.py)
 | 1470| Shuffle the Array| Easy | [Python](./code/1470-ShuffleTheArray.py)
 | 1476| Subrectangle Queries | Medium | [Python](./code/1476-SubrectangleQueries.py)
 | 1480| Running Sum of 1d Array | Easy | [Python](./code/1480-RunningSumOf1DArray.py)
