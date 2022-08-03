@@ -1,0 +1,2 @@
+SELECT Users.user_id AS buyer_id, join_date, IFNULL(count(order_date),0) AS orders_in_2019 FROM Users 
+LEFT JOIN Orders p ON Users.user_id = p.buyer_id AND year(p.order_date) = 2019 GROUP BY Users.user_id
