@@ -1,0 +1,1 @@
+SELECT p.class FROM (SELECT COUNT(student) AS student_cnt, class FROM Courses GROUP BY class) AS p WHERE p.student_cnt >= 5
