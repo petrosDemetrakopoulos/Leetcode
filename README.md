@@ -141,3 +141,4 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2347| Best Poker Hand | Easy | [Python](./code/2347-BestPokerHand.py)
 | 2351| First Letter to Appear Twice | Easy | [Python](./code/2351-FirstLetterToAppearTwice.py)
 | 2352| Equal Row and Column Pairs | Medium | [Python](./code/2352-EqualRowAndColumnPairs.py)
+| 2357| Make Array Zero by Subtracting Equal Amounts | Easy | [Python](./code/2357-MakeArrayZeroBySubstractingEqualAmounts.py)
