@@ -54,6 +54,8 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 136| Single Number | Easy | [Python](./code/136-SingleNumber.py)
 | 141| Linked List Cycle | Easy | [Python](./code/141-LinkedListCycle.py)
 | 142| Linked List Cycle II | Medium | [Python](./code/142-LinkedListCycleII.py)
+| 144| Binary Tree Preorder Traversal | Easy | [Python](./code/144-BinaryTreePreorderTraversal.py)
+| 145| Binary Tree Postorder Traversal | Easy | [Python](./code/145-BinaryTreePostorderTraversal.py)
 | 168| Excel Sheet Column Title | Easy | [Python](./code/168-ExcelSheetColumnTitle.py)
 | 169| Majority Element | Easy | [Python](./code/169-MajorityElement.py)
 | 171| Excel Sheet Column Number | Easy | [Python](./code/171-ExcelSheetColumnNumber.py)
