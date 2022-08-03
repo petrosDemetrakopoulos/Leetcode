@@ -32,6 +32,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 34 | Find First and Last Position of Element in Sorted Array| Medium| [Python](./code/34-FindFirstAndLastPositionOfElementInSortedArray.py)
 | 35 | Search Insert Position| Easy | [Python](./code/35-SearchInsertPosition.py)
 | 36 | Valid Sudoku | Medium | [Python](./code/36-ValidSudoku.py)
+| 46 | Permutations | Medium | [Python](./code/46-Permutations.py) 
 | 48 | Rotate Image | Medium | [Python](./code/48-RotateImage.py)
 | 58 | Length of Last Word | Easy | [Python](./code/58-LengthOfLastWord.py)
 | 66 | Plus One  | Easy | [Python](./code/66-PlusOne.py)
