@@ -94,6 +94,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 704| Binary Search | Easy | [Python](./code/704-BinarySearch.py)
 | 724| Find Pivot Index | Easy | [Python](./code/724-FindPivotIndex.py)
 | 729| My Calendar I | Medium | [Python](./code/729-MyCalendarI.py)
+| 796| Rotate String | Easy | [Python](./code/796-RotateString.py)
 | 832| Flipping an Image | Easy | [Python](./code/832-FlippingAnImage.py)
 | 867| Transpose Matrix | Easy | [Python](./code/867-TransposeMatrix.py)
 | 876| Middle of the Linked List | Easy | [Python](./code/876-MiddleOfTheLinkedlist.py)
