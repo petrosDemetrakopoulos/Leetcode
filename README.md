@@ -130,7 +130,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1365| How Many Numbers Are Smaller Than the Current Number | Easy | [Python](/code/1365-HowManyNumbersAreSmallerThanTheCurrentNumber.py)
 | 1393| Capital Gain/Loss | Medium | [SQL](/code/1393-CapitalGainLoss.sql)
 | 1407| Top Travellers | Easy | [SQL](/code/1407-TopTravellers.sql)
-| 1436| Destination City | [Python](/code/1436-DestinationCity.py)
+| 1436| Destination City | Easy | [Python](/code/1436-DestinationCity.py)
 | 1470| Shuffle the Array| Easy | [Python](/code/1470-ShuffleTheArray.py)
 | 1476| Subrectangle Queries | Medium | [Python](/code/1476-SubrectangleQueries.py)
 | 1480| Running Sum of 1d Array | Easy | [Python](/code/1480-RunningSumOf1DArray.py)
