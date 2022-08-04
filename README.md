@@ -137,6 +137,8 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1528| Shuffle String | Easy | [Python](./code/1528-ShuffleString.py)
 | 1603| Design Parking System | Easy | [Python](./code/1603-DesignParkingSystem.py)
 | 1667| Fix Names in a Table | Easy | [SQL](./code/1667-FixNamesInATable.sql)
+| 1704| Determine if String Halves Are Alike | Easy | [Python](./code/1704-DetermineIfStringHalvesAreAlike.py)
+| 1720| Decode XORed Array | Easy | [Python](./code/1720-DecodeXORedArray.py)
 | 1729| Find Followers Count | Easy | [SQL](./code/1729-FindFollowersCount.sql)
 | 1795| Rearrange Products Table | Easy | [SQL](./code/1795-RearrangeProductsTable.sql)
 | 1828| Queries on Number of Points Inside a Circle | Medium | [Python](./code/1828-QueriesOnNumberOfPointsInsideACircle.py)
