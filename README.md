@@ -190,6 +190,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2315| Count Asterisks | Easy | [Python](/code/2315-CountAsterisks.py)
 | 2319| Check if Matrix Is X-Matrix | Easy | [Python](/code/2319-CheckIfMatrixIsX-Matrix.py)
 | 2325| Decode the Message | Easy | [Python](/code/2325-DecodeTheMessage.py)
+| 2331| Evaluate Boolean Binary Tree | Easy | [Python](/code/2331-EvaluateBooleanBinaryTree.py)
 | 2347| Best Poker Hand | Easy | [Python](/code/2347-BestPokerHand.py)
 | 2351| First Letter to Appear Twice | Easy | [Python](/code/2351-FirstLetterToAppearTwice.py)
 | 2352| Equal Row and Column Pairs | Medium | [Python](/code/2352-EqualRowAndColumnPairs.py)
