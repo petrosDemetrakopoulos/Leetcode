@@ -1,0 +1,1 @@
+SELECT Users.name, p.BALANCE FROM (SELECT *, sum(amount) AS 'BALANCE' FROM Transactions GROUP BY account) p INNER JOIN Users on p.account = Users.account WHERE p.BALANCE > 10000

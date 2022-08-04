@@ -1,0 +1,1 @@
+SELECT p.event_day AS day,p.emp_id, SUM(p.time_diff) AS total_time FROM (SELECT *, (out_time - in_time) AS time_diff FROM Employees) AS p GROUP BY p.event_day, p.emp_id
