@@ -12,6 +12,6 @@ class Solution(object):
         for i in nums:
             mydict[i] += 1
         
-        for val in range(len(mydict.values())):
+        for val in xrange(len(mydict.values())):
             if mydict.values()[val] == 1:
-                    return mydict.keys()[val]
+                return mydict.keys()[val]
