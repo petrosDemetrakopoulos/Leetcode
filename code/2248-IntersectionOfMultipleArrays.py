@@ -8,7 +8,7 @@ class Solution(object):
             nums[0].sort()
             return nums[0]
         res = [value for value in nums[0] if value in nums[1]]
-        for i in range(1,len(nums)):
+        for i in xrange(1,len(nums)):
             res = [value for value in res if value in nums[i]]
         res.sort()
         return res

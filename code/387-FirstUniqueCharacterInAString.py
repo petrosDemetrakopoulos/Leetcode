@@ -7,7 +7,7 @@ class Solution(object):
         list_str = list(s)
         hm = {}
         index = -1
-        for i in range(len(list_str)):
+        for i in xrange(len(list_str)):
             if list_str[i] not in hm:
                 hm[list_str[i]] = [i,0]
             else:
@@ -16,7 +16,7 @@ class Solution(object):
         
         vals = filter(lambda x: x[1] == 0, hm.values())
         while ind <= len(list_str):
-            for i in range(len(vals)):
+            for i in xrange(len(vals)):
                 if vals[i][0] == ind and vals[i][1] == 0:
                     return ind
             ind += 1

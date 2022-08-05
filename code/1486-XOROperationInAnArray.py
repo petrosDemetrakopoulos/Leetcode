@@ -6,6 +6,6 @@ class Solution(object):
         :rtype: int
         """
         nums = []
-        for i in range(n):
+        for i in xrange(n):
             nums.append(start + 2 * i)
         return reduce(lambda x, y: x ^ y, nums)

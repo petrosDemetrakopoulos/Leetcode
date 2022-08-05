@@ -10,7 +10,7 @@ class Solution(object):
         only_pos = list(filter(lambda x: x > 0, nums))
         sub_by = min(only_pos)
         while (sum(nums) > 0):
-            for i in range(len(nums)):
+            for i in xrange(len(nums)):
                 if nums[i] >= sub_by:
                     nums[i] = nums[i] - sub_by
             ops += 1
