@@ -9,7 +9,7 @@ class Solution(object):
 
         max_price = 0
         min_price = 10 ** 4
-        for i in range(len(prices)):
+        for i in xrange(len(prices)):
             if prices[i] < min_price:
                 min_price = prices[i]
             if prices[i] > max_price:

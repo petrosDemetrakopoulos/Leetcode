@@ -1,7 +1,7 @@
 class Solution(object):
     def partition(self,l, r, nums):
         pivot, ptr = nums[r], l
-        for i in range(l, r):
+        for i in xrange(l, r):
             if nums[i] <= pivot:
                 nums[i], nums[ptr] = nums[ptr], nums[i]
                 ptr += 1
