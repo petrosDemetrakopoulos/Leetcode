@@ -6,7 +6,7 @@ Here is the list of the tasks that I completed using Python.
 
 | Leetcode ID | Title                                 | Difficulty | Solution |
 | ----------- | ------------------------------------  |----------- |----------|
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum)| Easy   | [Python](/1-TwoSum.py)
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum)| Easy   | [Python](./1-TwoSum.py)
 | 2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)| Medium | [Python](/code/Python/2-AddTwoNumbers.py)
 | 7  | [Reverse integer](https://leetcode.com/problems/reverse-integer)| Medium | [Python](/code/Python/7-ReverseInteger.py)
 | 8  | [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)| Medium | [Python](/code/Python/8-StringToInteger(atoi).py)
