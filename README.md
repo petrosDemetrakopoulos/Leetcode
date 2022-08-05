@@ -46,7 +46,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [Python](/code/83-RemoveDuplicatesFromSortedList.py)
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | [Python](/code/94-BinaryTreeInorderTraversal.py) 
 | 100| [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [Python](/code/100-SameTree.py)
-| 104| [Maximum Depth of Binary Tree]()| Easy | [Python](/code/104-MaxDepthOfBinaryTree.py)
+| 104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)| Easy | [Python](/code/104-MaxDepthOfBinaryTree.py)
 | 108| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| Easy | [Python](/code/108-ConvertSortedArrayToBST.py)
 | 114| [Flatten Binary Tree to Linked List]() | Medium | [Python](/code/114-FlattenBinaryTreeToLinkedList.py)
 | 118| [Pascal's Triangle]() | Easy | [Python](/code/118-PascalTriangle.py)
