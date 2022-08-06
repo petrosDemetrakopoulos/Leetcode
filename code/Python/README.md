@@ -102,6 +102,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1114| [Print in Order](https://leetcode.com/problems/print-in-order) | Easy | [Python](./1114-PrintInOrder.py)
 | 1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](./1137-NthTribonacciNumber.py)
 | 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [Python](./1221-SplitAStringInBalancedStrings.py)
+| 1252| [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)| Easy | [Python](./1252-CellsWithOddValuesInAMatrix.py)
 | 1281| [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | [Python](./1281-SubstractTheProductAndSumOfDigitsOfAnInteger.py)
 | 1282| [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | Medium | [Python](./1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo.py)
 | 1342| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [Python](./1342-NumberOfStepsToReduceANumberToZero.py)

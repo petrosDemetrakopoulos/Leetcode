@@ -138,6 +138,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1158| [Market Analysis I](https://leetcode.com/problems/market-analysis-i) | Medium | [SQL](/code/SQL/1158-MarketAnalysisI.sql)
 | 1179| [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [SQL](/code/SQL/1179-ReformatDepartmentTable.sql)
 | 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [Python](/code/Python/1221-SplitAStringInBalancedStrings.py)
+| 1252| [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)| Easy | [Python](/code/Python/1252-CellsWithOddValuesInAMatrix.py)
 | 1281| [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | [Python](/code/Python/1281-SubstractTheProductAndSumOfDigitsOfAnInteger.py)
 | 1282| [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | Medium | [Python](/code/Python/1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo.py)
 | 1342| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [Python](/code/Python/1342-NumberOfStepsToReduceANumberToZero.py)
