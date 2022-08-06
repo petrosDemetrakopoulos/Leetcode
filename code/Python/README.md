@@ -122,6 +122,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1662| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [Python](/code/Python/1662-CheckIfTwoStringArraysAreEquivalent.py)
 | 1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | [Python](/code/Python/1672-RichestCustomerWealth.py)
 | 1678| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | [Python](/code/Python/1678-GoalParserInterpretation.py)
+| 1684| [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Easy | [Python](code/Python/1684-CountTheNumberOfConsistentStrings.py)
 | 1689| [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [Python](/code/Python/1689-PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.py)
 | 1704| [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | [Python](/code/Python/1704-DetermineIfStringHalvesAreAlike.py)
 | 1720| [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [Python](/code/Python/1720-DecodeXORedArray.py)
