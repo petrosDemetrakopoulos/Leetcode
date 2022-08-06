@@ -95,6 +95,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](./876-MiddleOfTheLinkedlist.py)
 | 884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](./884-UncommonWordsFromTwoSentences.py) 
 | 1009| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](./1009-CompleentOfBase10Integer.py)
+| 1051| [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | [Python](./1051-HeightChecker.py)
 | 1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [Python](./1108-DefangingAnIPAddress.py)
 | 1114| [Print in Order](https://leetcode.com/problems/print-in-order) | Easy | [Python](./1114-PrintInOrder.py)
 | 1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](./1137-NthTribonacciNumber.py)
