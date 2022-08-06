@@ -182,6 +182,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1920| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [Python](/code/Python/1920-BuildArrayFromPermutation.py)
 | 1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [Python](/code/Python/1929-ConcatenationOfArray.py)
 | 1965| [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | [SQL](/code/SQL/1965-EmployeesWithMissinginformation.sql)
+| 1967| [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)| Easy | [Python](/code/Python/1967-NumberOfStringsThatAppearAsSubstringsInWord.py)
 | 2006| [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | [Python](/code/Python/2006-CountNumberOfPairsWithAbsoluteDifferenceK.py)
 | 2011| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | Easy | [Python](/code/Python/2011-FinalValueOfVariableAfterPerformingOperations.py)
 | 2042| [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | Easy | [Python](/code/Python/2042-CheckIfNumbersAreAscendingInASentence.py)
