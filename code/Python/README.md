@@ -143,6 +143,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2148| [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | Easy | [Python](/code/Python/2148-CountElementsWithSmallerAndGreater.py)
 | 2160| [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | [Python](/code/Python/2160-MinimumSumOfFourDigitNumberAfterSplittingDigits.py)
 | 2161| [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](/code/Python/2161-PartitionArrayAccordingToGivenPivot.py)
+| 2194| [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | Easy | [Python](/code/Python/2194-CellsInARangeOnAnExcelSheet.py)
 | 2206| [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | Easy | [Python](/code/Python/2206-DivideArrayIntoEqualPairs.py)
 | 2215| [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | [Python](/code/Python/2215-FindTheDifferenceOfTwoArrays.py)
 | 2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [Python](/code/Python/2235-AddTwoIntegers.py)

@@ -188,6 +188,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2011| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | Easy | [Python](/code/Python/2011-FinalValueOfVariableAfterPerformingOperations.py)
 | 2042| [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | Easy | [Python](/code/Python/2042-CheckIfNumbersAreAscendingInASentence.py)
 | 2085| [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](/code/Python/2085-CountCommonWordsWithOneOccurrence.py)
+| 2194| [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | Easy | [Python](/code/Python/2194-CellsInARangeOnAnExcelSheet.py)
 | 2114| [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [Python](/code/Python/2114-MaximumNumberOfWordsFoundInSentences.py)
 | 2129| [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | Easy | [Python](/code/Python/2129-CapitalizeTheTitle.py)
 | 2133| [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) | Easy | [Python](/code/Python/2133-CheckIfEveryRowAndColumnContainsAllNumbers.py)
