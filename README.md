@@ -212,6 +212,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2319| [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix) | Easy | [Python](/code/Python/2319-CheckIfMatrixIsX-Matrix.py)
 | 2325| [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | [Python](/code/Python/2325-DecodeTheMessage.py)
 | 2331| [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) | Easy | [Python](/code/Python/2331-EvaluateBooleanBinaryTree.py)
+| 2335| [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | Easy | [Python](/code//Python/2335-MinimumAmountOfTimeToFillCups.py)
 | 2347| [Best Poker Hand](https://leetcode.com/problems/best-poker-hand) | Easy | [Python](/code/Python/2347-BestPokerHand.py)
 | 2351| [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | [Python](/code/Python/2351-FirstLetterToAppearTwice.py)
 | 2352| [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | Medium | [Python](/code/Python/2352-EqualRowAndColumnPairs.py)
