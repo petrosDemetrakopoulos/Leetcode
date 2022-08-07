@@ -7,11 +7,8 @@ class Solution(object):
         :rtype: int
         """
         matrix = []
-        for i in range(m):
-            row = []
-            for j in range(n):
-                row.append(0)
-            matrix.append(row)
+        for i in xrange(m):
+            matrix.append([0] * n)
         
         for op in indices:
             row = op[0]

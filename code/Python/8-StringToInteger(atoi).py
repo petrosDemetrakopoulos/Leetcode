@@ -3,7 +3,7 @@ class Solution(object):
         x=[]    #shows digit index list from string
         spe=[]  #shows non-digit index list 
         sl=s.strip() #remove leading space
-        if len(sl) == 0: res =0
+        if not sl: res =0
         elif ((len(sl) != 1 and sl[0] == '-' and sl[1].isdigit()) 
         or (len(sl) != 1 and sl[0] =='+' and sl[1].isdigit()) 
         or (sl[0].isdigit())): #when first element is "+" or "-" or digit 
