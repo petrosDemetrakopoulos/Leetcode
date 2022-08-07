@@ -109,6 +109,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1252| [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)| Easy | [Python](./1252-CellsWithOddValuesInAMatrix.py)
 | 1281| [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | [Python](./1281-SubstractTheProductAndSumOfDigitsOfAnInteger.py)
 | 1282| [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | Medium | [Python](./1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo.py)
+| 1313| [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | [Python](./1313-DecompressRunLengthEncodedList.py)
 | 1342| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [Python](./1342-NumberOfStepsToReduceANumberToZero.py)
 | 1351| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | Easy | [Python](./1351-CountNegativeNumbersInASortedMatrix.py)
 | 1365| [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | [Python](./1365-HowManyNumbersAreSmallerThanTheCurrentNumber.py)
