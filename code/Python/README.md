@@ -169,3 +169,4 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2351| [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | [Python](./2351-FirstLetterToAppearTwice.py)
 | 2352| [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | Medium | [Python](./2352-EqualRowAndColumnPairs.py)
 | 2357| [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | [Python](./2357-MakeArrayZeroBySubstractingEqualAmounts.py)
+| 2367| [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | [Python](./2367-NumberOfArithmeticTriplets.py)
