@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: str
         """
         list_s = list(s)
-        for i in range(1,len(s),2):
+        for i in xrange(1,len(s),2):
             ascii_c = ord(list_s[i-1])
             list_s[i] = chr(ascii_c + int(list_s[i]))
         return "".join(list_s)

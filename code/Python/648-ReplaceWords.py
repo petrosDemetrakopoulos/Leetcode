@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: str
         """
         l_sentence = sentence.split()
-        for i in range(len(l_sentence)):
+        for i in xrange(len(l_sentence)):
             for j in dictionary:
                 if l_sentence[i].startswith(j):
                     l_sentence[i] = j

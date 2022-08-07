@@ -24,6 +24,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position)| Easy | [Python](./35-SearchInsertPosition.py)
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | [Python](./36-ValidSudoku.py)
 | 46 | [Permutations](https://leetcode.com/problems/permutations) | Medium | [Python](./46-Permutations.py) 
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | [Python](./47-PermutationsII.py)
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | [Python](./48-RotateImage.py)
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [Python](./58-LengthOfLastWord.py)
 | 66 | [Plus One](https://leetcode.com/problems/plus-one)  | Easy | [Python](./66-PlusOne.py)

@@ -33,6 +33,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position)| Easy | [Python](/code/Python/35-SearchInsertPosition.py)
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | [Python](/code/Python/36-ValidSudoku.py)
 | 46 | [Permutations](https://leetcode.com/problems/permutations) | Medium | [Python](/code/Python/46-Permutations.py) 
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | [Python](/code/Python/47-PermutationsII.py)
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | [Python](/code/Python/48-RotateImage.py)
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [Python](/code/Python/58-LengthOfLastWord.py)
 | 66 | [Plus One](https://leetcode.com/problems/plus-one)  | Easy | [Python](/code/Python/66-PlusOne.py)
