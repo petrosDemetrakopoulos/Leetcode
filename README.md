@@ -208,6 +208,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2236| [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [Python](/code/Python/2236-RootEqualsSumOfChildren.py)
 | 2239| [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero) | Easy | [Python](/code/Python/2239-FindClosesNumberToZero.py)
 | 2248| [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | Easy | [Python](/code/Python/2248-IntersectionOfMultipleArrays.py)
+| 2255| [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)| Easy | [Python](/code/Python/2255-CountPrefixesOfAGivenString.py)
 | 2278| [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | Easy | [Python](/code/Python/2278-PercentageOfLettersInString.py)
 | 2299| [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](/code/Python/2299-StrongPasswordCheckerII.py)
 | 2303| [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes) | Easy | [Python](/code/Python/2303-CalculateAmountPaidInTaxes.py)
