@@ -6,9 +6,7 @@ class Solution(object):
         :type indices: List[List[int]]
         :rtype: int
         """
-        matrix = []
-        for i in xrange(m):
-            matrix.append([0] * n)
+        matrix = [[0] * n for i in xrange(m)]
         
         for op in indices:
             row = op[0]
