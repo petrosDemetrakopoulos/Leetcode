@@ -94,6 +94,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 389| [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | [Python](/code/Python/389-FindTheDifference.py)
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | [Python](/code/Python/412-FizzBuzz.py)
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | [Python](/code/Python/414-ThirdMaximumNumber.py)
+| 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](/code/Python/461-HammingDistance.py)
 | 476| [Number Complement](https://leetcode.com/problems/number-complement) | Easy | [Python](/code/Python/476-NumberComplement.py)
 | 485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | [Python](/code/Python/485-MaxConsecutiveOnes.py)
 | 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [Python](/code/Python/496-NextGreaterElementI.py)
