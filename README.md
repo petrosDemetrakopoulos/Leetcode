@@ -185,6 +185,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1828| [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) | Medium | [Python](/code/Python/1828-QueriesOnNumberOfPointsInsideACircle.py)
 | 1832| [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [Python](/code/Python/1832-CheckIfTheSentenceIsPangram.py)
 | 1844| [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | Easy | [Python](/code/Python/1844-ReplaceAllDigitsWithCharacters.py)
+| 1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | [Python](/code/Python/1859-SortingTheSentence.py)
 | 1873| [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | [SQL](/code/SQL/1873-CalculateSpecialBonus.sql)
 | 1890| [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | Easy | [SQL](/code/SQL/1890-TheLatestLoginIn2020.sql)
 | 1920| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [Python](/code/Python/1920-BuildArrayFromPermutation.py)

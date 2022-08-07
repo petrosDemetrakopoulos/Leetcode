@@ -137,6 +137,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1828| [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) | Medium | [Python](./1828-QueriesOnNumberOfPointsInsideACircle.py)
 | 1832| [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [Python](./1832-CheckIfTheSentenceIsPangram.py)
 | 1844| [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | Easy | [Python](./1844-ReplaceAllDigitsWithCharacters.py)
+| 1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | [Python](./1859-SortingTheSentence.py)
 | 1920| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [Python](./1920-BuildArrayFromPermutation.py)
 | 1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [Python](./1929-ConcatenationOfArray.py)
 | 1967| [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)| Easy | [Python](./1967-NumberOfStringsThatAppearAsSubstringsInWord.py)
