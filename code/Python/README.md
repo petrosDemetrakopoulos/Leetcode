@@ -155,6 +155,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2215| [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | [Python](./2215-FindTheDifferenceOfTwoArrays.py)
 | 2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [Python](./2235-AddTwoIntegers.py)
 | 2236| [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [Python](./2236-RootEqualsSumOfChildren.py)
+| 2239| [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | Easy | [Python](./2239-FindClosesNumberToZero.py)
 | 2248| [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | Easy | [Python](./2248-IntersectionOfMultipleArrays.py)
 | 2278| [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | Easy | [Python](./2278-PercentageOfLettersInString.py)
 | 2299| [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](./2299-StrongPasswordCheckerII.py)
