@@ -31,7 +31,7 @@ class Solution(object):
             if i in special:
                 has_special = True
                 break
-        for i in range(len(password)-1):
+        for i in xrange(len(password)-1):
             if password[i] == password[i+1]:
                 two_same_adjacent = True
                 break

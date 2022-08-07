@@ -1,7 +1,7 @@
 class Solution:
     def countMatches(self, items: List[List[str]], ruleKey: str, ruleValue: str) -> int:
         cnt = 0
-        for i in range(len(items)):
+        for i in xrange(len(items)):
             crn_item = items[i]
             match ruleKey:
                 case "type":

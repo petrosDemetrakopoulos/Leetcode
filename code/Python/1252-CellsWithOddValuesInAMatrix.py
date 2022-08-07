@@ -13,13 +13,13 @@ class Solution(object):
         for op in indices:
             row = op[0]
             col = op[1]
-            for i in range(len(matrix[row])):
+            for i in xrange(len(matrix[row])):
                 matrix[row][i] += 1
-            for i in range(len(matrix)):
+            for i in xrange(len(matrix)):
                 matrix[i][col] += 1
         odd = 0
-        for i in range(m):
-            for j in range(n):
+        for i in xrange(m):
+            for j in xrange(n):
                 if matrix[i][j] % 2 == 1:
                     odd += 1
         return odd
