@@ -129,6 +129,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [Python](/code/Python/867-TransposeMatrix.py)
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](/code/Python/876-MiddleOfTheLinkedlist.py)
 | 884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](/code/Python/884-UncommonWordsFromTwoSentences.py) 
+| 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](/code/Python/977-SquaresOfASortedArray.py)
 | 1009| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](/code/Python/1009-CompleentOfBase10Integer.py)
 | 1050| [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [SQL](/code/SQL/1050-ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
 | 1051| [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [Python](/code/Python/1051-HeightChecker.py)
