@@ -4,9 +4,9 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        seen = []
+        hm = {}
         for i in s:
-            if i not in seen:
-                seen.append(i)
+            if i not in hm:
+                hm[i] = 1
             else:
                 return i
