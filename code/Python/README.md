@@ -76,6 +76,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 476| [Number Complement](https://leetcode.com/problems/number-complement) | Easy | [Python](./476-NumberComplement.py)
 | 485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | [Python](./485-MaxConsecutiveOnes.py)
 | 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [Python](./496-NextGreaterElementI.py)
+| 500| [Keyboard Row](https://leetcode.com/problems/keyboard-row) | Easy | [Python](./500-KeyboardRow.py)
 | 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)| Easy | [Python](./509-FibonacciNumber.py)
 | 520| [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | [Python](./520-DetectCapital.py)
 | 535| [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](./535-EncodeAndDecodeTinyURL.py)

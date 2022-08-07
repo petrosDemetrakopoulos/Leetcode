@@ -97,6 +97,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 476| [Number Complement](https://leetcode.com/problems/number-complement) | Easy | [Python](/code/Python/476-NumberComplement.py)
 | 485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | [Python](/code/Python/485-MaxConsecutiveOnes.py)
 | 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | [Python](/code/Python/496-NextGreaterElementI.py)
+| 500| [Keyboard Row](https://leetcode.com/problems/keyboard-row) | Easy | [Python](/code/Python/500-KeyboardRow.py)
 | 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)| Easy | [Python](/code/Python/509-FibonacciNumber.py)
 | 511| [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | [SQL](/code/SQL/511-GamePlayAnalysisI.sql)
 | 520| [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | [Python](/code/Python/520-DetectCapital.py)
