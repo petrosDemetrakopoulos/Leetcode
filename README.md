@@ -123,6 +123,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [Python](/code/Python/700-SearchInABinaryTree.py)
 | 704| [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](/code/Python/704-BinarySearch.py)
 | 705| [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | [Python](/code/Python/705-DesignHashSet.py)
+| 706| [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [Python](/code/Python/706-DesignHashMap.py)
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | [Python](/code/Python/709-ToLowerCase.py)
 | 724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | [Python](/code/Python/724-FindPivotIndex.py)
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | [Python](/code/Python/728-SelfDividingNumbers.py)
