@@ -130,6 +130,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [Python](/code/Python/771-JewelsAndStones.py)
 | 796| [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [Python](/code/Python/796-RotateString.py)
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [Python](/code/Python/804-UniqueMorseCodeWords.py)
+| 806| [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | [Python](/code/Python/806-NumberOfLinesToWriteString.py)
 | 832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [Python](/code/Python/832-FlippingAnImage.py)
 | 867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [Python](/code/Python/867-TransposeMatrix.py)
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](/code/Python/876-MiddleOfTheLinkedlist.py)
