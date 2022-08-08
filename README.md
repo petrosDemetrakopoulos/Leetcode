@@ -187,6 +187,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1704| [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | [Python](/code/Python/1704-DetermineIfStringHalvesAreAlike.py)
 | 1720| [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [Python](/code/Python/1720-DecodeXORedArray.py)
 | 1729| [Find Followers Count](https://leetcode.com/problems/find-followers-count) | Easy | [SQL](/code/SQL/1729-FindFollowersCount.sql)
+| 1732| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | [Python](/code/Python/1732-FindTheHighestAltitude.py)
 | 1741| [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | Easy | [SQL](/code/SQL/1741-FindTotalTimeSpentByEachEmployee.sql)
 | 1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](/code/Python/1748-SumOfUniqueElements.py)
 | 1757| [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [SQL](/code/SQL/1757-RecyclableAndLowFatProducts.sql)

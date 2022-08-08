@@ -142,6 +142,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1689| [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [Python](./1689-PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.py)
 | 1704| [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | [Python](./1704-DetermineIfStringHalvesAreAlike.py)
 | 1720| [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [Python](./1720-DecodeXORedArray.py)
+| 1732| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | [Python](./1732-FindTheHighestAltitude.py)
 | 1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](./1748-SumOfUniqueElements.py)
 | 1773| [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [Python](./1773-CountItemsMatchingARule.py)
 | 1796| [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](./1796-SecondLargestDigitInAString.py)
