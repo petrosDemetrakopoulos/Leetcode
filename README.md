@@ -191,6 +191,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1773| [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [Python](/code/Python/1773-CountItemsMatchingARule.py)
 | 1795| [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | Easy | [SQL](/code/SQL/1795-RearrangeProductsTable.sql)
 | 1796| [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](/code/Python/1796-SecondLargestDigitInAString.py)
+| 1822| [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | Easy | [Python](/code/Python/1822-SignOfTheProductOfAnArray.py)
 | 1828| [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) | Medium | [Python](/code/Python/1828-QueriesOnNumberOfPointsInsideACircle.py)
 | 1832| [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [Python](/code/Python/1832-CheckIfTheSentenceIsPangram.py)
 | 1844| [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | Easy | [Python](/code/Python/1844-ReplaceAllDigitsWithCharacters.py)
