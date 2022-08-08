@@ -182,6 +182,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | [Python](/code/Python/1672-RichestCustomerWealth.py)
 | 1678| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | [Python](/code/Python/1678-GoalParserInterpretation.py)
 | 1684| [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | Easy | [Python](code/Python/1684-CountTheNumberOfConsistentStrings.py)
+| 1688| [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | Easy | [Python](/code/Python/1688-CountOfMatchesInTournament.py)
 | 1689| [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [Python](/code/Python/1689-PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.py)
 | 1693| [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | [SQL](/code/SQL/1693-DailyLeadsAndPartners.sql)
 | 1704| [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | [Python](/code/Python/1704-DetermineIfStringHalvesAreAlike.py)
