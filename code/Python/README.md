@@ -53,6 +53,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | [Python](./168-ExcelSheetColumnTitle.py)
 | 169| [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [Python](./169-MajorityElement.py)
 | 171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | [Python](./171-ExcelSheetColumnNumber.py)
+| 190| [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [Python](./190-ReverseBits.py)
 | 191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [Python](./191-NumberOfOneBits.py)
 | 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| Easy | [Python](./206-ReverseLinkedList.py)
 | 216| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | Medium | [Python](./216-CombinationSumIII.py)

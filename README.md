@@ -70,6 +70,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 182| [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | [SQL](/code/SQL/182-DuplicateEmails.sql)
 | 183| [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | [SQL](/code/SQL/183-CustomersWhoNeverOrder.sql)
 | 184| [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | Medium | [SQL](/code/SQL/184-DepartmentHighestSalary.sql)
+| 190| [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [Python](/code/Python/190-ReverseBits.py)
 | 191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [Python](/code/Python/191-NumberOfOneBits.py)
 | 193| [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | Easy | [Bash script](/code/BashScripts/193-ValidPhoneNumbers.sh)
 | 195| [Tenth Line](https://leetcode.com/problems/tenth-line) | Easy | [Bash script](/code/BashScripts/195-TenthLine.sh)
