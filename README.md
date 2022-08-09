@@ -91,6 +91,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 287| [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | [Python](/code/Python/287-FindDuplicateNumber.py)
 | 290| [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | [Python](/code/Python/290-WordPattern.py)
 | 326| [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](/code/Python/326-PowerOfThree.py)
+| 338| [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | [Python](/code/Python/338-CountingBits.py)
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](/code/Python/344-ReverseString.py)
 | 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | [Python](/code/Python/347-TopKFrequentElements.py)
 | 349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | [Python](/code/Python/349-IntersectionOfTwoArrays.py)
