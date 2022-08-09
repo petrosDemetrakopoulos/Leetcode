@@ -102,6 +102,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | [Python](./728-SelfDividingNumbers.py)
 | 729| [My Calendar I](https://leetcode.com/problems/my-calendar-i) | Medium | [Python](./729-MyCalendarI.py)
 | 744| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)| Easy | [Python](./744-FindSmallestLetterGreaterThanTarget.py)
+| 762| [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | [Python](./762-PrimeNumberOfSetBitsInBinaryRepresentation.py)
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [Python](./771-JewelsAndStones.py)
 | 796| [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [Python](./796-RotateString.py)
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [Python](./804-UniqueMorseCodeWords.py)
