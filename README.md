@@ -116,6 +116,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 595| [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [SQL](/code/SQL/595-BigCountries.sql)
 | 596| [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | Easy | [SQL](/code/SQL/596-ClassesMoreThan5Students.sql)
 | 598| [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | [Python](/code/Python/598-RangeAdditionII.py)
+| 606| [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy | [Python](/code/Python/606-ConstructStringFromBinaryTree.py)
 | 607| [Sales Person](https://leetcode.com/problems/sales-person) | Easy | [SQL](/code/SQL/607-SalesPerson.sql)
 | 608| [Tree Node](https://leetcode.com/problems/tree-node) | Medium | [SQL](/code/SQL/608-TreeNode.sql)
 | 620| [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | [SQL](/code/SQL/620-NotBoringMovies.sql)

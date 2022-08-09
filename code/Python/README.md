@@ -90,6 +90,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 589| [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | [Python](./589-NaryTreePreorderTraversal.py)
 | 590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | [Python](./590-NaryTreePostorderTraversal.py)
 | 598| [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | [Python](./598-RangeAdditionII.py)
+| 606| [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy | [Python](./606-ConstructStringFromBinaryTree.py)
 | 648| [Replace Words](https://leetcode.com/problems/replace-words) | Medium | [Python](./648-ReplaceWords.py)
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | [Python](./657-RobotReturnToOrigin.py)
 | 700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [Python](./700-SearchInABinaryTree.py)
