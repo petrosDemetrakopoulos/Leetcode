@@ -136,6 +136,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [Python](/code/Python/804-UniqueMorseCodeWords.py)
 | 806| [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | [Python](/code/Python/806-NumberOfLinesToWriteString.py)
 | 821| [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | [Python](/code/Python/821-ShortestDistanceToACharacter.py)
+| 824| [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](/code/Python/824-GoatLatin.py)
 | 832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [Python](/code/Python/832-FlippingAnImage.py)
 | 867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [Python](/code/Python/867-TransposeMatrix.py)
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](/code/Python/876-MiddleOfTheLinkedlist.py)
