@@ -109,6 +109,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 796| [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [Python](./796-RotateString.py)
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [Python](./804-UniqueMorseCodeWords.py)
 | 806| [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | [Python](./806-NumberOfLinesToWriteString.py)
+| 819| [Most Common Word](https://leetcode.com/problems/most-common-word) | Easy | [Python](./819-MostCommonWord.py)
 | 821| [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | [Python](./821-ShortestDistanceToACharacter.py)
 | 824| [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | [Python](./824-GoatLatin.py)
 | 832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [Python](./832-FlippingAnImage.py)
