@@ -79,6 +79,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| Easy | [Python](/code/Python/206-ReverseLinkedList.py)
 | 216| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | Medium | [Python](/code/Python/216-CombinationSumIII.py)
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [Python](/code/Python/217-ContainsDuplicate.py)
+| 226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [Python](/code/Python/226-InvertBinaryTree.py)
 | 231| [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | [Python](/code/Python/231-PowerOfTwo.py)
 | 237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy | [Python](/code/Python/237-DeleteNodeInALinkedList.py)
 | 240| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)| Medium | [Python](/code/Python/240-SearchA2DMatrixII.py)

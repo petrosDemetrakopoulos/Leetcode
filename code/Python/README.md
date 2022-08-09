@@ -58,6 +58,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| Easy | [Python](./206-ReverseLinkedList.py)
 | 216| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | Medium | [Python](./216-CombinationSumIII.py)
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [Python](./217-ContainsDuplicate.py)
+| 226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [Python](./226-InvertBinaryTree.py)
 | 231| [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | [Python](./231-PowerOfTwo.py)
 | 237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy | [Python](./237-DeleteNodeInALinkedList.py)
 | 240| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)| Medium | [Python](./240-SearchA2DMatrixII.py)
