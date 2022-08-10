@@ -187,6 +187,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1484| [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | Easy | [SQL](/code/SQL/1484-GroupSoldProductsByTheDate.sql)
 | 1486| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)| Easy | [Python](/code/Python/1486-XOROperationInAnArray.py)
 | 1491| [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | Easy | [Python](/code/Python/1491-AverageSalaryExcludingTheMinimumAndMaximumSalary.py)
+| 1502| [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | Easy | [Python](/code/Python/1502-CanMakeArithmeticProgressionFromSequence.py)
 | 1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)| Easy | [Python](/code/Python/1512-NumberOfGoodPairs.py)
 | 1523| [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | Easy | [Python](/code/Python/1523-CountOddNumbersInAnIntervalRange.py)
 | 1527| [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | Easy | [SQL](/code/SQL/1527-PatientsWithACondition.sql)
