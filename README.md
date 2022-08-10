@@ -77,6 +77,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 195| [Tenth Line](https://leetcode.com/problems/tenth-line) | Easy | [Bash script](/code/BashScripts/195-TenthLine.sh)
 | 196| [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy |  [SQL](/code/SQL/196-DeleteDuplicateEmails.sql)
 | 197| [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | [SQL](/code/SQL/197-RisingTemperature.sql)
+| 202| [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [Python](/code/Python/202-HappyNumber.py)
 | 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| Easy | [Python](/code/Python/206-ReverseLinkedList.py)
 | 216| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | Medium | [Python](/code/Python/216-CombinationSumIII.py)
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [Python](/code/Python/217-ContainsDuplicate.py)
