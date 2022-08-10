@@ -97,6 +97,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](/code/Python/344-ReverseString.py)
 | 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | [Python](/code/Python/347-TopKFrequentElements.py)
 | 349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | [Python](/code/Python/349-IntersectionOfTwoArrays.py)
+| 374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [Python](/code/Python/374-GuessNumberHigherOrLower.py)
 | 383| [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | [Python](/code/Python/383-RansomNote.py)
 | 387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | [Python](/code/Python/387-FirstUniqueCharacterInAString.py)
 | 389| [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | [Python](/code/Python/389-FindTheDifference.py)
