@@ -91,6 +91,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 535| [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](./535-EncodeAndDecodeTinyURL.py)
 | 551| [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | Easy | [Python](./551-StudentAttendanceRecordI.py)
 | 557| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [Python](./557-ReverseWordsInAStringIII.py)
+| 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | [Python](./575-DistributeCandies.py)
 | 589| [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | [Python](./589-NaryTreePreorderTraversal.py)
 | 590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | [Python](./590-NaryTreePostorderTraversal.py)
 | 598| [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | [Python](./598-RangeAdditionII.py)
