@@ -151,6 +151,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](/code/Python/876-MiddleOfTheLinkedlist.py)
 | 884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](/code/Python/884-UncommonWordsFromTwoSentences.py) 
 | 938| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](/code/Python/938-RangeSumOfBST.py)
+| 976| [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](/code/Python/976-LargestPerimeterTriangle.py)
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](/code/Python/977-SquaresOfASortedArray.py)
 | 1009| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](/code/Python/1009-CompleentOfBase10Integer.py)
 | 1050| [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [SQL](/code/SQL/1050-ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
