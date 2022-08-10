@@ -148,6 +148,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1486| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)| Easy | [Python](./1486-XOROperationInAnArray.py)
 | 1491| [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | Easy | [Python](./1491-AverageSalaryExcludingTheMinimumAndMaximumSalary.py)
 | 1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)| Easy | [Python](./1512-NumberOfGoodPairs.py)
+| 1523| [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | Easy | [Python](./1523-CountOddNumbersInAnIntervalRange.py)
 | 1528| [Shuffle String](https://leetcode.com/problems/shuffle-string)| Easy | [Python](./1528-ShuffleString.py)
 | 1534| [Count Good Triplets](https://leetcode.com/problems/count-good-triplets)| Easy | [Python](./1534-CountGoodTriplets.py)
 | 1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)| Easy | [Python](./1572-MatrixDiagonalSum.py)
