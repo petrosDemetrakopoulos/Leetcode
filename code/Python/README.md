@@ -120,6 +120,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [Python](./867-TransposeMatrix.py)
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](./876-MiddleOfTheLinkedlist.py)
 | 884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](./884-UncommonWordsFromTwoSentences.py) 
+| 938| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](./938-RangeSumOfBST.py)
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](./977-SquaresOfASortedArray.py)
 | 1009| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](./1009-CompleentOfBase10Integer.py)
 | 1051| [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [Python](./1051-HeightChecker.py)
