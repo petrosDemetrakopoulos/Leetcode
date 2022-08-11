@@ -22,10 +22,7 @@ class Solution(object):
         resp = self.inorderTraversal(root)
         res = []
         for i in resp:
-            if i not in hs:
-                hs[i] = 1
-            else:
-                hs[i] += 1
+            hs[i] = resp.count(i)
 
         mode = max(hs.values())
         for i in range(len(hs.values())):

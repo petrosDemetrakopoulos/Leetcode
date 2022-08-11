@@ -5,15 +5,12 @@ class Solution(object):
         :type banned: List[str]
         :rtype: str
         """
-        paragrpah_list = paragraph.replace(',',' ').replace('.','').replace('!','').replace('?','').replace(';','').replace('\'','').split()
+        paragrpah_list = paragraph.replace(',',' ').replace('.','').replace('!','').replace('?','').replace(';','').replace('\'','').lower().split()
         hs = {}
         for word in paragrpah_list:
-            lc = word.lower()
-            if lc not in hs and lc not in banned:
-                hs[lc] = 1
-            else:
-                if lc not in banned:
-                    hs[lc] += 1
+            if word not in hs and word not in banned:
+                hs[word] = paragrpah_list.count(word)
+
         max_freq = 0
         common_word = ''
         for i in range(len(hs.values())):

@@ -7,9 +7,7 @@ class Solution(object):
         hs = {}
         for i in nums:
             if i not in hs:
-                hs[i] = 1
-            else:
-                hs[i] += 1
+                hs[i] = nums.count(i)
         
         res = 0
         for i in range(len(hs.values())):
