@@ -218,6 +218,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1757| [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [SQL](/code/SQL/1757-RecyclableAndLowFatProducts.sql)
 | 1773| [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [Python](/code/Python/1773-CountItemsMatchingARule.py)
 | 1779| [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy | [Python](/code/Python/1779-FindNearestPointThatHasTheSameXOrYCoordinate.py)
+| 1790| [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | Easy | [Python](/code/Python/1790-CheckifOneStringSwapCanMakeStringsEqual.py)
 | 1795| [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | Easy | [SQL](/code/SQL/1795-RearrangeProductsTable.sql)
 | 1796| [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](/code/Python/1796-SecondLargestDigitInAString.py)
 | 1812| [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | [Python](/code/Python/1812-DetermineColorOfAChessboardSquare.py)

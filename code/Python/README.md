@@ -171,6 +171,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](./1748-SumOfUniqueElements.py)
 | 1773| [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [Python](./1773-CountItemsMatchingARule.py)
 | 1779| [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy | [Python](./1779-FindNearestPointThatHasTheSameXOrYCoordinate.py)
+| 1790| [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | Easy | [Python](./1790-CheckifOneStringSwapCanMakeStringsEqual.py)
 | 1796| [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](./1796-SecondLargestDigitInAString.py)
 | 1812| [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | [Python](./1812-DetermineColorOfAChessboardSquare.py)
 | 1822| [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | Easy | [Python](./1822-SignOfTheProductOfAnArray.py)
