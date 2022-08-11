@@ -146,6 +146,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | [Python](./1380-LuckyNumbersInAMatrix.py)
 | 1431| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)| Easy | [Python](./1431-KidsWithTheGreatestNumberOfCandies.py)
 | 1436| [Destination City](https://leetcode.com/problems/destination-city) | Easy | [Python](./1436-DestinationCity.py)
+| 1464| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | [Python](./1464-MaximumProductOfTwoElementsInAnArray.py)
 | 1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | [Python](./1470-ShuffleTheArray.py)
 | 1476| [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries) | Medium | [Python](./1476-SubrectangleQueries.py)
 | 1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | [Python](./1480-RunningSumOf1DArray.py)
