@@ -160,6 +160,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)| Easy | [Python](./1572-MatrixDiagonalSum.py)
 | 1603| [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | [Python](./1603-DesignParkingSystem.py)
 | 1619| [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements) | Easy | [Python](./1619-MeanOfArrayAfterRemovingSomeElements.py)
+| 1646| [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | Easy | [Python](./1646-GetMaximumInGeneratedArray.py)
 | 1662| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy | [Python](./1662-CheckIfTwoStringArraysAreEquivalent.py)
 | 1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | [Python](./1672-RichestCustomerWealth.py)
 | 1678| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | [Python](./1678-GoalParserInterpretation.py)
