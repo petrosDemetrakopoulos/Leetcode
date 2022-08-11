@@ -201,6 +201,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2194| [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | Easy | [Python](./2194-CellsInARangeOnAnExcelSheet.py)
 | 2206| [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | Easy | [Python](./2206-DivideArrayIntoEqualPairs.py)
 | 2215| [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | [Python](./2215-FindTheDifferenceOfTwoArrays.py)
+| 2221| [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | Medium | [Python](./2221-FindTriangularSumOfAnArray.py)
 | 2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [Python](./2235-AddTwoIntegers.py)
 | 2236| [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [Python](./2236-RootEqualsSumOfChildren.py)
 | 2239| [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero) | Easy | [Python](./2239-FindClosesNumberToZero.py)
