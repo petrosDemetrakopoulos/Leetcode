@@ -235,6 +235,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1873| [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | [SQL](/code/SQL/1873-CalculateSpecialBonus.sql)
 | 1890| [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | Easy | [SQL](/code/SQL/1890-TheLatestLoginIn2020.sql)
 | 1920| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [Python](/code/Python/1920-BuildArrayFromPermutation.py)
+| 1925| [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples) | Easy | [Python](/code/Python/1925-CountSquareSumTriples.py)
 | 1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [Python](/code/Python/1929-ConcatenationOfArray.py)
 | 1965| [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | [SQL](/code/SQL/1965-EmployeesWithMissinginformation.sql)
 | 1967| [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)| Easy | [Python](/code/Python/1967-NumberOfStringsThatAppearAsSubstringsInWord.py)
