@@ -188,6 +188,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1925| [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples) | Easy | [Python](./1925-CountSquareSumTriples.py)
 | 1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [Python](./1929-ConcatenationOfArray.py)
 | 1967| [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)| Easy | [Python](./1967-NumberOfStringsThatAppearAsSubstringsInWord.py)
+| 2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | Easy | [Python](./2000-ReversePrefixOfWord.py)
 | 2006| [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | [Python](./2006-CountNumberOfPairsWithAbsoluteDifferenceK.py)
 | 2011| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | Easy | [Python](./2011-FinalValueOfVariableAfterPerformingOperations.py)
 | 2042| [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | Easy | [Python](./2042-CheckIfNumbersAreAscendingInASentence.py)
