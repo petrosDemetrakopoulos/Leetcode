@@ -11,7 +11,7 @@ The format of each filename is: `'{task_code}-{task_name_camelcase}.py'`
 The following table shows all the problems I have completed in Leetcode.
 The first column (`Leetcode ID`) has link to the respective problem page at Leetcode, while the 3rd column (`Solution`) links to my solution in this GitHub repo.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/petrosDemetrakopoulos/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/petrosDemetrakopoulos)](https://leetcode.com/petrosDemetrakopoulos/)
 
 ## Content
 
