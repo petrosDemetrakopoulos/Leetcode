@@ -265,6 +265,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2124| [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | Easy | [Python](/code/Python/2124-CheckIfAllA'sAppearsBeforeAllB's.py)
 | 2129| [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | Easy | [Python](/code/Python/2129-CapitalizeTheTitle.py)
 | 2133| [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) | Easy | [Python](/code/Python/2133-CheckIfEveryRowAndColumnContainsAllNumbers.py)
+| 2138| [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | Easy | [Python](/code/Python/2138-DivideAStringIntoGroupsOfSizeK.py)
 | 2148| [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | Easy | [Python](/code/Python/2148-CountElementsWithSmallerAndGreater.py)
 | 2149| [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Medium | [Python](/code/Python/2149-RearrangeArrayelementsBySign.py)
 | 2154| [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | Easy | [Python](/code/Python/2154-KeepMultiplyingFoundValuesByTwo.py)
