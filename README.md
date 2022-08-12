@@ -191,6 +191,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | [Python](/code/Python/1380-LuckyNumbersInAMatrix.py)
 | 1393| [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [SQL](/code/SQL/1393-CapitalGainLoss.sql)
 | 1407| [Top Travellers](https://leetcode.com/problems/top-travellers) | Easy | [SQL](/code/SQL/1407-TopTravellers.sql)
+| 1408| [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | Easy | [Python](/code/Python/1408-StringMatchingInAnArray.py)
 | 1431| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)| Easy | [Python](/code/Python/1431-KidsWithTheGreatestNumberOfCandies.py)
 | 1436| [Destination City](https://leetcode.com/problems/destination-city) | Easy | [Python](/code/Python/1436-DestinationCity.py)
 | 1464| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | [Python](./code/Python/1464-MaximumProductOfTwoElementsInAnArray.py)
