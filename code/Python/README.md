@@ -129,6 +129,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 938| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](./938-RangeSumOfBST.py)
 | 976| [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](./976-LargestPerimeterTriangle.py)
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](./977-SquaresOfASortedArray.py)
+| 997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | Easy | [Python](./997-FindThejudge.py)
 | 1009| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](./1009-CompleentOfBase10Integer.py)
 | 1051| [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [Python](./1051-HeightChecker.py)
 | 1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [Python](./1108-DefangingAnIPAddress.py)
