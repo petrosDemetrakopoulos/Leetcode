@@ -72,6 +72,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](./283-MoveZeroes.py)
 | 287| [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | [Python](./287-FindDuplicateNumber.py)
 | 290| [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | [Python](./290-WordPattern.py)
+| 303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [Python](./303-RangeSumQuery.py)
 | 326| [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](./326-PowerOfThree.py)
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | [Python](./338-CountingBits.py)
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](./344-ReverseString.py)

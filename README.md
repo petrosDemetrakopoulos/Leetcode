@@ -95,6 +95,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Python](/code/Python/283-MoveZeroes.py)
 | 287| [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | [Python](/code/Python/287-FindDuplicateNumber.py)
 | 290| [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | [Python](/code/Python/290-WordPattern.py)
+| 303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [Python](/code/Python/303-RangeSumQuery.py)
 | 326| [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](/code/Python/326-PowerOfThree.py)
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | [Python](/code/Python/338-CountingBits.py)
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](/code/Python/344-ReverseString.py)
