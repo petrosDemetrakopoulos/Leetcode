@@ -125,6 +125,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [Python](./867-TransposeMatrix.py)
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](./876-MiddleOfTheLinkedlist.py)
 | 884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](./884-UncommonWordsFromTwoSentences.py)
+| 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Python](./905-SortArrayByParity.py)
 | 933| [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | [Python](./933-NumberOfRecentCalls.py)
 | 938| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](./938-RangeSumOfBST.py)
 | 976| [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](./976-LargestPerimeterTriangle.py)
