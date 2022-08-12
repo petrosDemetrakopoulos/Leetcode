@@ -143,6 +143,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1346| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | [Python](./1346-CheckIfNAndItsDoubleExist.py)
 | 1351| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | Easy | [Python](./1351-CountNegativeNumbersInASortedMatrix.py)
 | 1365| [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | [Python](./1365-HowManyNumbersAreSmallerThanTheCurrentNumber.py)
+| 1374| [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | Easy | [Python](./1374-GenerateAStringWithCharactersThatHaveOddCount.py)
 | 1379| [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy | [Python](./1379-FindACorrespondingNodeOfBinaryTreeInACloneOfThatTree.py)
 | 1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | [Python](./1380-LuckyNumbersInAMatrix.py)
 | 1431| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)| Easy | [Python](./1431-KidsWithTheGreatestNumberOfCandies.py)
