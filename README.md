@@ -123,6 +123,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 586| [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | Easy | [SQL](/code/SQL/586-CustomerPlacingTheLargestNumberOfOrders.sql)
 | 589| [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | [Python](/code/Python/589-NaryTreePreorderTraversal.py)
 | 590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | [Python](/code/Python/590-NaryTreePostorderTraversal.py)
+| 593| [Valid Square](https://leetcode.com/problems/valid-square) | Medium | [Python](/code/Python/593-ValidSquare.py)
 | 595| [Big Countries](https://leetcode.com/problems/big-countries) | Easy | [SQL](/code/SQL/595-BigCountries.sql)
 | 596| [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | Easy | [SQL](/code/SQL/596-ClassesMoreThan5Students.sql)
 | 598| [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | [Python](/code/Python/598-RangeAdditionII.py)

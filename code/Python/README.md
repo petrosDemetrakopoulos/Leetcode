@@ -97,6 +97,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | [Python](./575-DistributeCandies.py)
 | 589| [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | [Python](./589-NaryTreePreorderTraversal.py)
 | 590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | [Python](./590-NaryTreePostorderTraversal.py)
+| 593| [Valid Square](https://leetcode.com/problems/valid-square) | Medium | [Python](./593-ValidSquare.py)
 | 598| [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | [Python](./598-RangeAdditionII.py)
 | 606| [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy | [Python](./606-ConstructStringFromBinaryTree.py)
 | 648| [Replace Words](https://leetcode.com/problems/replace-words) | Medium | [Python](./648-ReplaceWords.py)
