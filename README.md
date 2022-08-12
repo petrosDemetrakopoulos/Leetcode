@@ -131,6 +131,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 627| [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [SQL](/code/SQL/627-SwapSalary.sql)
 | 648| [Replace Words](https://leetcode.com/problems/replace-words) | Medium | [Python](/code/Python/648-ReplaceWords.py)
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | [Python](/code/Python/657-RobotReturnToOrigin.py)
+| 693| [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy | [Python](/code/Python/693-BinaryNumberWithAlternatingBits.py)
 | 700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [Python](/code/Python/700-SearchInABinaryTree.py)
 | 704| [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [Python](/code/Python/704-BinarySearch.py)
 | 705| [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | [Python](/code/Python/705-DesignHashSet.py)
