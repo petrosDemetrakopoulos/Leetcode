@@ -214,6 +214,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2133| [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) | Easy | [Python](./2133-CheckIfEveryRowAndColumnContainsAllNumbers.py)
 | 2148| [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | Easy | [Python](./2148-CountElementsWithSmallerAndGreater.py)
 | 2149| [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Medium | [Python](./2149-RearrangeArrayelementsBySign.py)
+| 2154| [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | Easy | [Python](./2154-KeepMultiplyingFoundValuesByTwo.py)
 | 2160| [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | [Python](./2160-MinimumSumOfFourDigitNumberAfterSplittingDigits.py)
 | 2161| [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](./2161-PartitionArrayAccordingToGivenPivot.py)
 | 2180| [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | Easy | [Python](./2180-CountIntegersWithEvenDigitSum.py)
