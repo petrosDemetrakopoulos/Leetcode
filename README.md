@@ -248,6 +248,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2006| [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | [Python](/code/Python/2006-CountNumberOfPairsWithAbsoluteDifferenceK.py)
 | 2011| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | Easy | [Python](/code/Python/2011-FinalValueOfVariableAfterPerformingOperations.py)
 | 2042| [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | Easy | [Python](/code/Python/2042-CheckIfNumbersAreAscendingInASentence.py)
+| 2032| [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | Easy | [Python](/code/Python/2032-TwoOutofThree.py)
 | 2085| [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](/code/Python/2085-CountCommonWordsWithOneOccurrence.py)
 | 2114| [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [Python](/code/Python/2114-MaximumNumberOfWordsFoundInSentences.py)
 | 2124| [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | Easy | [Python](/code/Python/2124-CheckIfAllA'sAppearsBeforeAllB's.py)
