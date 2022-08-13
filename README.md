@@ -121,6 +121,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 535| [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium | [Python](/code/Python/535-EncodeAndDecodeTinyURL.py)
 | 551| [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | Easy | [Python](/code/Python/551-StudentAttendanceRecordI.py)
 | 557| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | [Python](/code/Python/557-ReverseWordsInAStringIII.py)
+| 559| [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | Easy | [Python](/code/Python/559-MaximumDepthOfN-aryTree.py)
 | 561| [Array Partition](https://leetcode.com/problems/array-partition) | Easy | [Python](/code/Python/561-ArrayPartition.py)
 | 566| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | [Python](/code/Python/566-ReshapeTheMatrix.py)
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | [Python](/code/Python/575-DistributeCandies.py)
