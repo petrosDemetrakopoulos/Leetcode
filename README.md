@@ -149,6 +149,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 744| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)| Easy | [Python](/code/Python/744-FindSmallestLetterGreaterThanTarget.py)
 | 747| [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | [Python](/code/Python/747-LargestNumberAtLeastTwiceOfOthers.py)
 | 762| [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | [Python](/code/Python/762-PrimeNumberOfSetBitsInBinaryRepresentation.py)
+| 766| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | [Python](/code/Python/766-ToeplitzMatrix.py)
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [Python](/code/Python/771-JewelsAndStones.py)
 | 796| [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | [Python](/code/Python/796-RotateString.py)
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | [Python](/code/Python/804-UniqueMorseCodeWords.py)
