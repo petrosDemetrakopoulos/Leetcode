@@ -276,6 +276,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2185| [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | Easy | [Python](/code/Python/2185-CountingWordsWithAGivenPrefix.py)
 | 2190| [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array) | Easy | [Python](/code/Python/2190-MostFrequentNumberFollowingKeyInAnArray.py)
 | 2194| [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | Easy | [Python](/code/Python/2194-CellsInARangeOnAnExcelSheet.py)
+| 2200| [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array) | Easy | [Python](/code/Python/2200-FindAllK-DistantIndicesInAnArray.py)
 | 2206| [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | Easy | [Python](/code/Python/2206-DivideArrayIntoEqualPairs.py)
 | 2215| [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | [Python](/code/Python/2215-FindTheDifferenceOfTwoArrays.py)
 | 2221| [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | Medium | [Python](/code/Python/2221-FindTriangularSumOfAnArray.py)
