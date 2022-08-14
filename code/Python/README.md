@@ -144,6 +144,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | [Python](./989-AddToArrayFormOfInteger.py)
 | 997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | Easy | [Python](./997-FindThejudge.py)
 | 1009| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](./1009-CompleentOfBase10Integer.py)
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | [Python](./1046-LastStoneWeight.py)
 | 1051| [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [Python](./1051-HeightChecker.py)
 | 1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [Python](./1108-DefangingAnIPAddress.py)
 | 1114| [Print in Order](https://leetcode.com/problems/print-in-order) | Easy | [Python](./1114-PrintInOrder.py)
