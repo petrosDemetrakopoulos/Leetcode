@@ -223,6 +223,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1528| [Shuffle String](https://leetcode.com/problems/shuffle-string)| Easy | [Python](/code/Python/1528-ShuffleString.py)
 | 1534| [Count Good Triplets](https://leetcode.com/problems/count-good-triplets)| Easy | [Python](/code/Python/1534-CountGoodTriplets.py)
 | 1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)| Easy | [Python](/code/Python/1572-MatrixDiagonalSum.py)
+| 1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Python](/code/Python/1550-ThreeConsecutiveOdds.py)
 | 1581| [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy | [SQL](/code/Python/1581-CustomerWhoVisitedButDidNotMakeAnyTransactions.sql)
 | 1587| [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii)| Easy | [SQL](/code/Python/1587-BankAccountSummaryII.sql)
 | 1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy | [Python](/code/Python/1588-SumOfAllOddLengthSubarrays.py)

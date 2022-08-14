@@ -180,6 +180,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1523| [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | Easy | [Python](./1523-CountOddNumbersInAnIntervalRange.py)
 | 1528| [Shuffle String](https://leetcode.com/problems/shuffle-string)| Easy | [Python](./1528-ShuffleString.py)
 | 1534| [Count Good Triplets](https://leetcode.com/problems/count-good-triplets)| Easy | [Python](./1534-CountGoodTriplets.py)
+| 1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Python](./1550-ThreeConsecutiveOdds.py)
 | 1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)| Easy | [Python](./1572-MatrixDiagonalSum.py)
 | 1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy | [Python](./1588-SumOfAllOddLengthSubarrays.py)
 | 1603| [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | [Python](./1603-DesignParkingSystem.py)
