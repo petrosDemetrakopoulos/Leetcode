@@ -227,6 +227,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)| Easy | [Python](/code/Python/1572-MatrixDiagonalSum.py)
 | 1576| [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy | [Python](/code/Python/1576-ReplaceAll%3FToAvoidConsecutiveRepeatingCharacters.py)
 | 1581| [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy | [SQL](/code/Python/1581-CustomerWhoVisitedButDidNotMakeAnyTransactions.sql)
+| 1582| [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Easy | [Python](/code/Python/1582-SpecialPositionsInABinaryMatrix.py)
 | 1587| [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii)| Easy | [SQL](/code/Python/1587-BankAccountSummaryII.sql)
 | 1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy | [Python](/code/Python/1588-SumOfAllOddLengthSubarrays.py)
 | 1603| [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | [Python](/code/Python/1603-DesignParkingSystem.py)
