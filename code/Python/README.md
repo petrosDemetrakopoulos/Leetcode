@@ -183,6 +183,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1523| [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | Easy | [Python](./1523-CountOddNumbersInAnIntervalRange.py)
 | 1528| [Shuffle String](https://leetcode.com/problems/shuffle-string)| Easy | [Python](./1528-ShuffleString.py)
 | 1534| [Count Good Triplets](https://leetcode.com/problems/count-good-triplets)| Easy | [Python](./1534-CountGoodTriplets.py)
+| 1539| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | [Python](./1539-KthMissingPositiveNumber.py)
 | 1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Python](./1550-ThreeConsecutiveOdds.py)
 | 1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)| Easy | [Python](./1572-MatrixDiagonalSum.py)
 | 1576| [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy | [Python](./1576-ReplaceAll%3FToAvoidConsecutiveRepeatingCharacters.py)

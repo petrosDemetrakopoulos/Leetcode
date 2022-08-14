@@ -225,6 +225,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1527| [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | Easy | [SQL](/code/SQL/1527-PatientsWithACondition.sql)
 | 1528| [Shuffle String](https://leetcode.com/problems/shuffle-string)| Easy | [Python](/code/Python/1528-ShuffleString.py)
 | 1534| [Count Good Triplets](https://leetcode.com/problems/count-good-triplets)| Easy | [Python](/code/Python/1534-CountGoodTriplets.py)
+| 1539| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | [Python](/code/Python/1539-KthMissingPositiveNumber.py)
 | 1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Python](/code/Python/1550-ThreeConsecutiveOdds.py)
 | 1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)| Easy | [Python](/code/Python/1572-MatrixDiagonalSum.py)
 | 1576| [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy | [Python](/code/Python/1576-ReplaceAll%3FToAvoidConsecutiveRepeatingCharacters.py)
