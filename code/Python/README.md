@@ -183,6 +183,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1534| [Count Good Triplets](https://leetcode.com/problems/count-good-triplets)| Easy | [Python](./1534-CountGoodTriplets.py)
 | 1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | [Python](./1550-ThreeConsecutiveOdds.py)
 | 1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)| Easy | [Python](./1572-MatrixDiagonalSum.py)
+| 1576| [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy | [Python](./1576-ReplaceAll%3FToAvoidConsecutiveRepeatingCharacters.py)
 | 1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy | [Python](./1588-SumOfAllOddLengthSubarrays.py)
 | 1603| [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | [Python](./1603-DesignParkingSystem.py)
 | 1619| [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements) | Easy | [Python](./1619-MeanOfArrayAfterRemovingSomeElements.py)
