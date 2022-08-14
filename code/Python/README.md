@@ -77,6 +77,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 326| [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](./326-PowerOfThree.py)
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | [Python](./338-CountingBits.py)
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](./344-ReverseString.py)
+| 345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | [Python](./345-ReverseVowelsOfAString.py)
 | 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | [Python](./347-TopKFrequentElements.py)
 | 349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | [Python](./349-IntersectionOfTwoArrays.py)
 | 374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [Python](./374-GuessNumberHigherOrLower.py)
