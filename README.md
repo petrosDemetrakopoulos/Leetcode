@@ -194,6 +194,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1299| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side) | Easy | [Python](/code/Python/1299-ReplaceElementsWithGreatestElementOnRightSide.py)
 | 1309| [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Easy | [Python](/code/Python/1309-DecryptStringFromAlphabetToIntegerMapping.py)
 | 1313| [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | [Python](/code/Python/1313-DecompressRunLengthEncodedList.py)
+| 1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | [Python](/code/Python/1323-Maximum69Number.py)
 | 1342| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [Python](/code/Python/1342-NumberOfStepsToReduceANumberToZero.py)
 | 1346| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | [Python](/code/Python/1346-CheckIfNAndItsDoubleExist.py)
 | 1351| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | Easy | [Python](/code/Python/1351-CountNegativeNumbersInASortedMatrix.py)
