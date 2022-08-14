@@ -232,6 +232,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2047| [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) | Easy | [Python](./2047-NumberOfValidWordsInASentence.py)
 | 2085| [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](./2085-CountCommonWordsWithOneOccurrence.py)
 | 2094| [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | [Python](./2094-Finding3-DigitEvenNumbers.py)
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | [Python](./2108-FindFirstPalindromicStringInTheArray.py)
 | 2114| [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [Python](./2114-MaximumNumberOfWordsFoundInSentences.py)
 | 2124| [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | Easy | [Python](./2124-CheckIfAllA'sAppearsBeforeAllB's.py)
 | 2129| [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | Easy | [Python](./2129-CapitalizeTheTitle.py)
