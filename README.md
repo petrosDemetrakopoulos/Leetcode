@@ -248,6 +248,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1741| [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | Easy | [SQL](/code/SQL/1741-FindTotalTimeSpentByEachEmployee.sql)
 | 1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](/code/Python/1748-SumOfUniqueElements.py)
 | 1757| [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | [SQL](/code/SQL/1757-RecyclableAndLowFatProducts.sql)
+| 1768| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy | [Python](/code/Python/1768-MergeStringsAlternately.py)
 | 1773| [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [Python](/code/Python/1773-CountItemsMatchingARule.py)
 | 1779| [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy | [Python](/code/Python/1779-FindNearestPointThatHasTheSameXOrYCoordinate.py)
 | 1790| [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | Easy | [Python](/code/Python/1790-CheckifOneStringSwapCanMakeStringsEqual.py)
