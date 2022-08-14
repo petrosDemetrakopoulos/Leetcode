@@ -173,6 +173,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 961| [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | Easy | [Python](/code/Python/961-N-RepeatedElementsInSize2NArray.py)
 | 976| [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](/code/Python/976-LargestPerimeterTriangle.py)
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](/code/Python/977-SquaresOfASortedArray.py)
+| 989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | [Python](/code/Python/989-AddToArrayFormOfInteger.py)
 | 997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | Easy | [Python](/code/Python/997-FindThejudge.py)
 | 1009| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](/code/Python/1009-CompleentOfBase10Integer.py)
 | 1050| [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [SQL](/code/SQL/1050-ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
