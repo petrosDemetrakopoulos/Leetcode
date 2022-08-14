@@ -147,6 +147,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [Python](./1108-DefangingAnIPAddress.py)
 | 1114| [Print in Order](https://leetcode.com/problems/print-in-order) | Easy | [Python](./1114-PrintInOrder.py)
 | 1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](./1137-NthTribonacciNumber.py)
+| 1207| [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Python](./1207-UniqueNumberOfOccurrences.py)
 | 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [Python](./1221-SplitAStringInBalancedStrings.py)
 | 1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](./1232-CheckIfItIsAStraightLine.py)
 | 1252| [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)| Easy | [Python](./1252-CellsWithOddValuesInAMatrix.py)
