@@ -262,6 +262,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1796| [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](/code/Python/1796-SecondLargestDigitInAString.py)
 | 1812| [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | [Python](/code/Python/1812-DetermineColorOfAChessboardSquare.py)
 | 1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy | [Python](/code/Python/1816-TruncateSentence.py)
+| 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | Medium | [Python](/code/Python/1817-FindingTheUsersActiveMinutes.py)
 | 1822| [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | Easy | [Python](/code/Python/1822-SignOfTheProductOfAnArray.py)
 | 1828| [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) | Medium | [Python](/code/Python/1828-QueriesOnNumberOfPointsInsideACircle.py)
 | 1832| [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [Python](/code/Python/1832-CheckIfTheSentenceIsPangram.py)
