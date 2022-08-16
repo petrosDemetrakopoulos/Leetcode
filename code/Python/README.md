@@ -140,6 +140,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 933| [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | [Python](./933-NumberOfRecentCalls.py)
 | 938| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | [Python](./938-RangeSumOfBST.py)
 | 961| [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | Easy | [Python](./961-N-RepeatedElementsInSize2NArray.py)
+| 965| [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | Easy | [Python](./965-UnivaluedBinaryTree.py)
 | 976| [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | [Python](./976-LargestPerimeterTriangle.py)
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | [Python](./977-SquaresOfASortedArray.py)
 | 989| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | [Python](./989-AddToArrayFormOfInteger.py)
