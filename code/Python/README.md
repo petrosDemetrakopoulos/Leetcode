@@ -246,6 +246,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2154| [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | Easy | [Python](./2154-KeepMultiplyingFoundValuesByTwo.py)
 | 2160| [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | [Python](./2160-MinimumSumOfFourDigitNumberAfterSplittingDigits.py)
 | 2161| [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | [Python](./2161-PartitionArrayAccordingToGivenPivot.py)
+| 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | Easy | [Python](./2169-CountOperationsToObtainZero.py)
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | Easy | [Python](./2176-CountEqualAndDivisiblePairsInAnArray.py)
 | 2180| [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | Easy | [Python](./2180-CountIntegersWithEvenDigitSum.py)
 | 2185| [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | Easy | [Python](./2185-CountingWordsWithAGivenPrefix.py)
