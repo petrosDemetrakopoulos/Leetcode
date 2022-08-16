@@ -313,6 +313,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2239| [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero) | Easy | [Python](/code/Python/2239-FindClosesNumberToZero.py)
 | 2248| [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | Easy | [Python](/code/Python/2248-IntersectionOfMultipleArrays.py)
 | 2255| [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)| Easy | [Python](/code/Python/2255-CountPrefixesOfAGivenString.py)
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | Easy | [Python](/code/Python/2264-Largest3-Same-DigitNumberInString.py)
 | 2269| [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | Easy | [Python](/code/Python/2269-FindTheK-BeautyOfANumber.py)
 | 2273| [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | Easy | [Python](/code/Python/2273-FindResultantArrayAfterRemovingAnagrams.py)
 | 2278| [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | Easy | [Python](/code/Python/2278-PercentageOfLettersInString.py)
