@@ -203,6 +203,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1582| [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Easy | [Python](./1582-SpecialPositionsInABinaryMatrix.py)
 | 1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy | [Python](./1588-SumOfAllOddLengthSubarrays.py)
 | 1603| [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | [Python](./1603-DesignParkingSystem.py)
+| 1608| [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) | Easy | [Python](./1608-SpecialArrayWithXElementsGreaterThanOrEqualX.py)
 | 1614| [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [Python](./1614-MaximumNestingDepthOfTheParentheses.py)
 | 1619| [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements) | Easy | [Python](./1619-MeanOfArrayAfterRemovingSomeElements.py)
 | 1646| [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | Easy | [Python](./1646-GetMaximumInGeneratedArray.py)
