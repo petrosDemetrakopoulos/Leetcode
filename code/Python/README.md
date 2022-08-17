@@ -58,6 +58,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | [Python](./168-ExcelSheetColumnTitle.py)
 | 169| [Majority Element](https://leetcode.com/problems/majority-element) | Easy | [Python](./169-MajorityElement.py)
 | 171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | [Python](./171-ExcelSheetColumnNumber.py)
+| 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | Medium | [Python](/code/Python/187-RepeatedDNASequences.py)
 | 190| [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [Python](./190-ReverseBits.py)
 | 191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [Python](./191-NumberOfOneBits.py)
 | 202| [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [Python](./202-HappyNumber.py)
