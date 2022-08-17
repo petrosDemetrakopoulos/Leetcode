@@ -15,8 +15,7 @@ class Solution(object):
                     else:
                         uniques_per_line.append(board[i][j])
         # for columns
-        transposed = list(zip(*board))
-        transposed = list(map(lambda x: list(x), transposed))
+        transposed = zip(*board)
 
         for i in xrange(len(transposed)):
             uniques_per_col = []

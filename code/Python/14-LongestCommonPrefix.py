@@ -6,7 +6,7 @@ class Solution(object):
         """
         prefix = ""
         strs = map(lambda x: str(x), strs)
-        transposed = map(lambda x: list(x),zip(*strs))
+        transposed = zip(*strs)
         for i in xrange(len(transposed)):
             firstChar = transposed[i][0]
             all_same = True

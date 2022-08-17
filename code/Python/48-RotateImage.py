@@ -11,6 +11,6 @@ class Solution(object):
                 crn_col.append(matrix[i][j])
             cols.append(crn_col)
         cols.append(matrix[0])
-        tbl = list(map(lambda x: list(x), list(zip(*cols))))
+        tbl = zip(*cols)
         for i in xrange(len(tbl)):
             matrix[i] = tbl[i]

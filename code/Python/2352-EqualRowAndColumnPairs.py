@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         tot = 0
-        cols = list(map(lambda x: list(x), list(zip(*grid))))
+        cols = list(map(lambda x: list(x), zip(*grid)))
         for i in grid:
             for j in cols:
                 if i == j:

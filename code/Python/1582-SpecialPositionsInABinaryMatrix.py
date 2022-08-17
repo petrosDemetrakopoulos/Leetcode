@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         res = 0
-        transposed = map(lambda x: list(x),zip(*mat))
+        transposed = zip(*mat)
         for row in xrange(len(mat)):
             for col in xrange(len(mat[row])):
                 if mat[row][col] == 1:
