@@ -138,6 +138,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | [Python](./832-FlippingAnImage.py)
 | 836| [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | [Python](./836-RectangleOverlap.py)
 | 867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | [Python](./867-TransposeMatrix.py)
+| 868| [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | [Python](/code/Python/868-BinaryGap.py)
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Python](./876-MiddleOfTheLinkedlist.py)
 | 884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | [Python](./884-UncommonWordsFromTwoSentences.py)
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Python](./905-SortArrayByParity.py)
