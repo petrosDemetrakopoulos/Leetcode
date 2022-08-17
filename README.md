@@ -192,6 +192,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1141| [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | Easy | [SQL](/code/SQL/1141-UserActivityForThePast30DaysI.sql)
 | 1148| [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | [SQL](/code/SQL/1148-ArticleViewsI.sql)
 | 1158| [Market Analysis I](https://leetcode.com/problems/market-analysis-i) | Medium | [SQL](/code/SQL/1158-MarketAnalysisI.sql)
+| 1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | [Python](/code/Python/1160-FindWordsThatCanBeFormedByCharacters.py)
 | 1179| [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [SQL](/code/SQL/1179-ReformatDepartmentTable.sql)
 | 1207| [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Python](/code/Python/1207-UniqueNumberOfOccurrences.py)
 | 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [Python](/code/Python/1221-SplitAStringInBalancedStrings.py)
