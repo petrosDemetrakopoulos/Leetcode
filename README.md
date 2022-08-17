@@ -243,6 +243,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1587| [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii)| Easy | [SQL](/code/Python/1587-BankAccountSummaryII.sql)
 | 1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy | [Python](/code/Python/1588-SumOfAllOddLengthSubarrays.py)
 | 1603| [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | [Python](/code/Python/1603-DesignParkingSystem.py)
+| 1614| [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [Python](/code/Python/1614-MaximumNestingDepthOfTheParentheses.py)
 | 1619| [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements) | Easy | [Python](/code/Python/1619-MeanOfArrayAfterRemovingSomeElements.py)
 | 1646| [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | Easy | [Python](/code/Python/1646-GetMaximumInGeneratedArray.py)
 | 1662| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy | [Python](/code/Python/1662-CheckIfTwoStringArraysAreEquivalent.py)
