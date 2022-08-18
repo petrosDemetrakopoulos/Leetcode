@@ -94,6 +94,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | [Python](./414-ThirdMaximumNumber.py)
 | 434| [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | Easy | [Python](./434-NumberOfSegmentsInAString.py)
 | 442| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Python](./442-FindAllDuplicatesInAnArray.py)
+| 451| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium | [Python](./451-SortCharactersByFrequency.py)
 | 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [Python](./461-HammingDistance.py)
 | 476| [Number Complement](https://leetcode.com/problems/number-complement) | Easy | [Python](./476-NumberComplement.py)
 | 485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | [Python](./485-MaxConsecutiveOnes.py)
