@@ -283,6 +283,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | [Python](/code/Python/1859-SortingTheSentence.py)
 | 1863| [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | Easy | [Python](/code/Python/1863-SumOfAllSbsetsXORTotals.py)
 | 1873| [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | [SQL](/code/SQL/1873-CalculateSpecialBonus.sql)
+| 1876| [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | Easy | [Python](/code/Python/1876-SubstringsOfSizeThreeWithDistinctCharacters.py)
 | 1890| [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | Easy | [SQL](/code/SQL/1890-TheLatestLoginIn2020.sql)
 | 1909| [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | Easy | [Python](/code/Python/1909-RemoveOneElementToMakeTheArrayStrictlyIncreasing.py)
 | 1910| [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | Medium | [Python](/code/Python/1910-RemoveAllOccurrencesOfASubstring.py)

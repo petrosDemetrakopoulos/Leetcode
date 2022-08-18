@@ -232,6 +232,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1844| [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | Easy | [Python](./1844-ReplaceAllDigitsWithCharacters.py)
 | 1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | [Python](./1859-SortingTheSentence.py)
 | 1863| [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | Easy | [Python](./1863-SumOfAllSbsetsXORTotals.py)
+| 1876| [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | Easy | [Python](./1876-SubstringsOfSizeThreeWithDistinctCharacters.py)
 | 1909| [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | Easy | [Python](./1909-RemoveOneElementToMakeTheArrayStrictlyIncreasing.py)
 | 1910| [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | Medium | [Python](./1910-RemoveAllOccurrencesOfASubstring.py)
 | 1920| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [Python](./1920-BuildArrayFromPermutation.py)
