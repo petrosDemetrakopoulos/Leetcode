@@ -203,6 +203,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1179| [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [SQL](/code/SQL/1179-ReformatDepartmentTable.sql)
 | 1185| [Day of the Week](https://leetcode.com/problems/day-of-the-week) | Easy | [Python](/code/Python/1185-DayOfTheWeek.py)
 | 1207| [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Python](/code/Python/1207-UniqueNumberOfOccurrences.py)
+| 1217| [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Easy | [Python](/code/Python/1217-MinimumCostToMoveChipsToTheSamePosition.py)
 | 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [Python](/code/Python/1221-SplitAStringInBalancedStrings.py)
 | 1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](/code/Python/1232-CheckIfItIsAStraightLine.py)
 | 1252| [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)| Easy | [Python](/code/Python/1252-CellsWithOddValuesInAMatrix.py)
