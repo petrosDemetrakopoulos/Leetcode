@@ -177,6 +177,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1309| [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Easy | [Python](./1309-DecryptStringFromAlphabetToIntegerMapping.py)
 | 1313| [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | [Python](./1313-DecompressRunLengthEncodedList.py)
 | 1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | [Python](./1323-Maximum69Number.py)
+| 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) | Medium | [Python](./1325-DeleteLeavesWithAGivenValue.py)
 | 1337| [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | Easy | [Python](./1337-TheKWeakestRowsInAMatrix.py)
 | 1338| [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | Medium | [Python](./1338-ReduceArraySizeToTheHalf.py)
 | 1342| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | [Python](./1342-NumberOfStepsToReduceANumberToZero.py)
