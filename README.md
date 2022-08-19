@@ -147,6 +147,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 608| [Tree Node](https://leetcode.com/problems/tree-node) | Medium | [SQL](/code/SQL/608-TreeNode.sql)
 | 620| [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | [SQL](/code/SQL/620-NotBoringMovies.sql)
 | 627| [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | [SQL](/code/SQL/627-SwapSalary.sql)
+| 637| [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | [Python](/code/Python/637-AverageOfLevelsInBinaryTree.py)
 | 648| [Replace Words](https://leetcode.com/problems/replace-words) | Medium | [Python](/code/Python/648-ReplaceWords.py)
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | [Python](/code/Python/657-RobotReturnToOrigin.py)
 | 693| [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy | [Python](/code/Python/693-BinaryNumberWithAlternatingBits.py)
