@@ -163,6 +163,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1114| [Print in Order](https://leetcode.com/problems/print-in-order) | Easy | [Python](./1114-PrintInOrder.py)
 | 1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](./1137-NthTribonacciNumber.py)
 | 1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | [Python](./1160-FindWordsThatCanBeFormedByCharacters.py)
+| 1185| [Day of the Week](https://leetcode.com/problems/day-of-the-week) | Easy | [Python](./1185-DayOfTheWeek.py)
 | 1207| [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Python](./1207-UniqueNumberOfOccurrences.py)
 | 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [Python](./1221-SplitAStringInBalancedStrings.py)
 | 1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | [Python](./1232-CheckIfItIsAStraightLine.py)
