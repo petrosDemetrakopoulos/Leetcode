@@ -281,6 +281,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | [Python](./2235-AddTwoIntegers.py)
 | 2236| [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | [Python](./2236-RootEqualsSumOfChildren.py)
 | 2239| [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero) | Easy | [Python](./2239-FindClosesNumberToZero.py)
+| 2243| [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | [Python](./2243-CalculateDigitSumOfAString.py)
 | 2248| [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | Easy | [Python](./2248-IntersectionOfMultipleArrays.py)
 | 2255| [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)| Easy | [Python](./2255-CountPrefixesOfAGivenString.py)
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | Easy | [Python](./2264-Largest3-Same-DigitNumberInString.py)
