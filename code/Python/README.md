@@ -43,6 +43,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 100| [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [Python](./100-SameTree.py)
 | 104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)| Easy | [Python](./104-MaxDepthOfBinaryTree.py)
 | 108| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)| Easy | [Python](./108-ConvertSortedArrayToBST.py)
+| 111| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | [Python](./111-MinimumDepthOfBinaryTree.py)
 | 114| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | Medium | [Python](./114-FlattenBinaryTreeToLinkedList.py)
 | 118| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy | [Python](./118-PascalTriangle.py)
 | 119| [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | [Python](./119-PascalTriangleII.py)
