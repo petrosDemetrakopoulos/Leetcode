@@ -162,6 +162,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [Python](./1108-DefangingAnIPAddress.py)
 | 1114| [Print in Order](https://leetcode.com/problems/print-in-order) | Easy | [Python](./1114-PrintInOrder.py)
 | 1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](./1137-NthTribonacciNumber.py)
+| 1154| [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | [Python](./1154-DayOfTheYear.py)
 | 1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | [Python](./1160-FindWordsThatCanBeFormedByCharacters.py)
 | 1185| [Day of the Week](https://leetcode.com/problems/day-of-the-week) | Easy | [Python](./1185-DayOfTheWeek.py)
 | 1207| [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Python](./1207-UniqueNumberOfOccurrences.py)

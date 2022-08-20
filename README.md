@@ -198,6 +198,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | [Python](/code/Python/1137-NthTribonacciNumber.py)
 | 1141| [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | Easy | [SQL](/code/SQL/1141-UserActivityForThePast30DaysI.sql)
 | 1148| [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | [SQL](/code/SQL/1148-ArticleViewsI.sql)
+| 1154| [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | [Python](/code/Python/1154-DayOfTheYear.py)
 | 1158| [Market Analysis I](https://leetcode.com/problems/market-analysis-i) | Medium | [SQL](/code/SQL/1158-MarketAnalysisI.sql)
 | 1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | [Python](/code/Python/1160-FindWordsThatCanBeFormedByCharacters.py)
 | 1179| [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | [SQL](/code/SQL/1179-ReformatDepartmentTable.sql)
