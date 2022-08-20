@@ -283,6 +283,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1791| [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | Easy | [Python](/code/Python/1791-FindCenterOfStarGraph.py)
 | 1795| [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | Easy | [SQL](/code/SQL/1795-RearrangeProductsTable.sql)
 | 1796| [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | [Python](/code/Python/1796-SecondLargestDigitInAString.py)
+| 1805| [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | Easy | [Python](/code/Python/1805-NumberOfDifferentIntegersInAString.py)
 | 1812| [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | [Python](/code/Python/1812-DetermineColorOfAChessboardSquare.py)
 | 1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy | [Python](/code/Python/1816-TruncateSentence.py)
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | Medium | [Python](/code/Python/1817-FindingTheUsersActiveMinutes.py)
