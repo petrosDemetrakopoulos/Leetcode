@@ -81,6 +81,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | Medium | [Python](/code/Python/187-RepeatedDNASequences.py)
 | 190| [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [Python](/code/Python/190-ReverseBits.py)
 | 191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [Python](/code/Python/191-NumberOfOneBits.py)
+| 192| [Word Frequency](https://leetcode.com/problems/word-frequency) | Medium | [Python](/code/BashScripts/192-WordFrequency.sh)
 | 193| [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | Easy | [Bash script](/code/BashScripts/193-ValidPhoneNumbers.sh)
 | 195| [Tenth Line](https://leetcode.com/problems/tenth-line) | Easy | [Bash script](/code/BashScripts/195-TenthLine.sh)
 | 196| [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy |  [SQL](/code/SQL/196-DeleteDuplicateEmails.sql)
