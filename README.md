@@ -272,6 +272,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1689| [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [Python](/code/Python/1689-PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.py)
 | 1693| [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | [SQL](/code/SQL/1693-DailyLeadsAndPartners.sql)
 | 1704| [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | [Python](/code/Python/1704-DetermineIfStringHalvesAreAlike.py)
+| 1716| [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | Easy | [Python](/code/Python/1716-CalculateMoneyInLeetcodeBank.py)
 | 1720| [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [Python](/code/Python/1720-DecodeXORedArray.py)
 | 1729| [Find Followers Count](https://leetcode.com/problems/find-followers-count) | Easy | [SQL](/code/SQL/1729-FindFollowersCount.sql)
 | 1732| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | [Python](/code/Python/1732-FindTheHighestAltitude.py)

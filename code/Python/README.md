@@ -226,6 +226,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1688| [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | Easy | [Python](./1688-CountOfMatchesInTournament.py)
 | 1689| [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [Python](./1689-PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.py)
 | 1704| [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | [Python](./1704-DetermineIfStringHalvesAreAlike.py)
+| 1716| [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | Easy | [Python](./1716-CalculateMoneyInLeetcodeBank.py)
 | 1720| [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [Python](./1720-DecodeXORedArray.py)
 | 1732| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | [Python](./1732-FindTheHighestAltitude.py)
 | 1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | [Python](./1748-SumOfUniqueElements.py)
