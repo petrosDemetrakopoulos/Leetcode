@@ -320,6 +320,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2057| [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)| Easy | [Python](/code/Python/2057-SmallestIndexWithEqualValue.py)
 | 2085| [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](/code/Python/2085-CountCommonWordsWithOneOccurrence.py)
 | 2094| [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | [Python](/code/Python/2094-Finding3-DigitEvenNumbers.py)
+| 2103| [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | Easy | [Python](/code/Python/2103-RingsAndRods.py)
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | [Python](/code/Python/2108-FindFirstPalindromicStringInTheArray.py)
 | 2114| [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [Python](/code/Python/2114-MaximumNumberOfWordsFoundInSentences.py)
 | 2119| [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | Easy | [Python](/code/Python/2119-ANumberAfterADoubleReversal.py)
