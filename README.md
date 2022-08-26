@@ -316,6 +316,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2042| [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | Easy | [Python](/code/Python/2042-CheckIfNumbersAreAscendingInASentence.py)
 | 2047| [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) | Easy | [Python](/code/Python/2047-NumberOfValidWordsInASentence.py)
 | 2053| [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | [Python](/code/Python/2053-KthDistinctStringInAnArray.py)
+| 2057| [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)| Easy | [Python](/code/Python/2057-SmallestIndexWithEqualValue.py)
 | 2085| [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](/code/Python/2085-CountCommonWordsWithOneOccurrence.py)
 | 2094| [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | [Python](/code/Python/2094-Finding3-DigitEvenNumbers.py)
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | [Python](/code/Python/2108-FindFirstPalindromicStringInTheArray.py)
