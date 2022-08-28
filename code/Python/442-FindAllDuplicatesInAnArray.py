@@ -5,8 +5,4 @@ class Solution(object):
         :rtype: List[int]
         """
         nums.sort()
-        res = []
-        for i in xrange(len(nums)-1):
-            if nums[i] == nums[i+1]:
-                res.append(nums[i])
-        return res
+        return [nums[i] for i in xrange(len(nums)-1) if nums[i] == nums[i+1]]
