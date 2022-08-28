@@ -5,9 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        strength = []
-        for i in xrange(len(mat)):
-            strength.append((sum(mat[i]),i))
+        strength = [(sum(mat[i]),i) for i in xrange(len(mat))]
         strength.sort(key= lambda x: (x[0],x[1]))
         rows = map(lambda x: x[1], strength)
         return rows[:k]

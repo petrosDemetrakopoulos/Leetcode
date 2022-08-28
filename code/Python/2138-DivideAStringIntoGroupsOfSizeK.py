@@ -8,7 +8,4 @@ class Solution(object):
         """
         if len(s) % k != 0:
             s = s + fill * (k - (len(s) % k))
-        res = []
-        for i in xrange(0,len(s),k):
-            res.append(s[i:i+k])
-        return res
+        return [s[i:i+k] for i in xrange(0,len(s),k)]

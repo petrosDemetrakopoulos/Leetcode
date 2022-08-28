@@ -4,9 +4,4 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        res = []
-        for i in nums:
-            res.append(i)
-        for i in nums:
-            res.append(i)
-        return res
+        return 2*[i for i in nums]

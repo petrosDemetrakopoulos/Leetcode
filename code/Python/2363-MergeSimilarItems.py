@@ -16,8 +16,6 @@ class Solution(object):
                 hs[item[0]] = item[1]
             else:
                 hs[item[0]] += item[1]
-        res = []
-        for value in hs:
-            res.append([value, hs[value]])
+        res = [[value, hs[value]] for value in hs]
         res.sort(key= lambda x: x[0])
         return res

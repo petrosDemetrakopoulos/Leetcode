@@ -4,9 +4,6 @@ class Solution(object):
         :type paths: List[List[str]]
         :rtype: str
         """
-        dest_cities = []
-        outgoing_cities = []
-        for i in xrange(len(paths)):
-            outgoing_cities.append(paths[i][0])
-            dest_cities.append(paths[i][1])
+        dest_cities = [paths[i][1] for i in xrange(len(paths))]
+        outgoing_cities = [paths[i][0] for i in xrange(len(paths))]
         return[x for x in dest_cities if x not in outgoing_cities][0]

@@ -5,7 +5,6 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        
         groups = []
         while len(s) > k:
             for i in xrange(0,len(s),k):

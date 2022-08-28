@@ -5,7 +5,5 @@ class Solution(object):
         :type start: int
         :rtype: int
         """
-        nums = []
-        for i in xrange(n):
-            nums.append(start + 2 * i)
+        nums = [start + 2 * i for i in xrange(n)]
         return reduce(lambda x, y: x ^ y, nums)
