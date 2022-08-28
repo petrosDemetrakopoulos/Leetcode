@@ -265,6 +265,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2047| [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) | Easy | [Python](./2047-NumberOfValidWordsInASentence.py)
 | 2053| [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | [Python](./2053-KthDistinctStringInAnArray.py)
 | 2057| [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)| Easy | [Python](./2057-SmallestIndexWithEqualValue.py)
+| 2079| [Watering Plants](https://leetcode.com/problems/watering-plants) | Medium | [Python](./2079-WateringPlants.py)
 | 2085| [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | [Python](./2085-CountCommonWordsWithOneOccurrence.py)
 | 2094| [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | [Python](./2094-Finding3-DigitEvenNumbers.py)
 | 2103| [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | Easy | [Python](./2103-RingsAndRods.py)
