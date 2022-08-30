@@ -54,6 +54,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-i) | Medium | [Python](./142-LinkedListCycleII.py)
 | 144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | [Python](./144-BinaryTreePreorderTraversal.py)
 | 145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | [Python](./145-BinaryTreePostorderTraversal.py)
+| 148| [Sort List](https://leetcode.com/problems/sort-list) | Medium | [Python](./148-SortList.py)
 | 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Medium | [Python](./151-ReverseWordsInAString.py)
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | [Python](./153-FindMinimumInRotatedSortedArray.py)
 | 168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | [Python](./168-ExcelSheetColumnTitle.py)
