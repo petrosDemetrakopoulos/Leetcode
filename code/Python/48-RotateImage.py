@@ -6,9 +6,7 @@ class Solution(object):
         """
         cols = []
         for i in xrange(len(matrix)-1,0,-1):
-            crn_col = []
-            for j in xrange(len(matrix[i])):
-                crn_col.append(matrix[i][j])
+            crn_col = [matrix[i][j] for j in xrange(len(matrix[i]))]
             cols.append(crn_col)
         cols.append(matrix[0])
         tbl = zip(*cols)
