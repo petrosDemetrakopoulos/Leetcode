@@ -107,6 +107,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [Python](/code/Python/303-RangeSumQuery.py)
 | 326| [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | [Python](/code/Python/326-PowerOfThree.py)
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | [Python](/code/Python/338-CountingBits.py)
+| 342| [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | [Python](/code/Python/342-PowerOfFour.py)
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Python](/code/Python/344-ReverseString.py)
 | 345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | [Python](/code/Python/345-ReverseVowelsOfAString.py)
 | 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | [Python](/code/Python/347-TopKFrequentElements.py)
