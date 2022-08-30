@@ -194,6 +194,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | Easy | [Python](/code/Python/997-FindThejudge.py)
 | 1009| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | [Python](/code/Python/1009-CompleentOfBase10Integer.py)
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | [Python](/code/Python/1046-LastStoneWeight.py)
+| 1047| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy | [Python](/code/Python/1047-RemoveAllAdjacentDuplicatesInString.py)
 | 1050| [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | [SQL](/code/SQL/1050-ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
 | 1051| [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [Python](/code/Python/1051-HeightChecker.py)
 | 1084| [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | Easy |[SQL](/code/SQL/1084-SalesAnalysisIII.sql)
