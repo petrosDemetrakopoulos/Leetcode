@@ -120,6 +120,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 593| [Valid Square](https://leetcode.com/problems/valid-square) | Medium | [Python](./593-ValidSquare.py)
 | 598| [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | [Python](./598-RangeAdditionII.py)
 | 606| [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy | [Python](./606-ConstructStringFromBinaryTree.py)
+| 628| [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy | [Python](./628-MaximumProductOfThreeNumbers.py)
 | 637| [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | [Python](./637-AverageOfLevelsInBinaryTree.py)
 | 648| [Replace Words](https://leetcode.com/problems/replace-words) | Medium | [Python](./648-ReplaceWords.py)
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | [Python](./657-RobotReturnToOrigin.py)
