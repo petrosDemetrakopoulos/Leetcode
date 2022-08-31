@@ -273,6 +273,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1608| [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) | Easy | [Python](/code/Python/1608-SpecialArrayWithXElementsGreaterThanOrEqualX.py)
 | 1614| [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [Python](/code/Python/1614-MaximumNestingDepthOfTheParentheses.py)
 | 1619| [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements) | Easy | [Python](/code/Python/1619-MeanOfArrayAfterRemovingSomeElements.py)
+| 1636| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | Easy | [Python](/code/Python/1636-SortArrayByIncreasingFrequency.py)
 | 1646| [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | Easy | [Python](/code/Python/1646-GetMaximumInGeneratedArray.py)
 | 1662| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy | [Python](/code/Python/1662-CheckIfTwoStringArraysAreEquivalent.py)
 | 1667| [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | Easy | [SQL](/code/SQL/1667-FixNamesInATable.sql)
