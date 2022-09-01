@@ -180,6 +180,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1252| [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)| Easy | [Python](./1252-CellsWithOddValuesInAMatrix.py)
 | 1281| [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | [Python](./1281-SubstractTheProductAndSumOfDigitsOfAnInteger.py)
 | 1282| [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | Medium | [Python](./1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo.py)
+| 1287| [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array) | Easy | [Python](./1287-ElementAppearingMoreThan25%25InSortedArray.py)
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | Easy | [Python](./1290-ConvertBinaryTreeInALinkedListToInteger.py)
 | 1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | Easy | [Python](./1295-FindNumbersWithNumberOfDigits.py)
 | 1299| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side) | Easy | [Python](./1299-ReplaceElementsWithGreatestElementOnRightSide.py)
