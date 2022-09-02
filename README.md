@@ -322,6 +322,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1941| [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | Easy | [Python](/code/Python/1941-CheckIfAllCharactersHaveEqualNumberOfOccurrences.py)
 | 1965| [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | [SQL](/code/SQL/1965-EmployeesWithMissinginformation.sql)
 | 1967| [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)| Easy | [Python](/code/Python/1967-NumberOfStringsThatAppearAsSubstringsInWord.py)
+| 1979| [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | Easy | [Python](/code/Python/1979-FindGreatestCommonDivisorOfArray.py)
 | 2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | Easy | [Python](/code/Python/2000-ReversePrefixOfWord.py)
 | 2006| [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | [Python](/code/Python/2006-CountNumberOfPairsWithAbsoluteDifferenceK.py)
 | 2011| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | Easy | [Python](/code/Python/2011-FinalValueOfVariableAfterPerformingOperations.py)
