@@ -263,6 +263,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1880| [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | Easy | [Python](./1880-CheckIfWordEqualsSummationOfTwoWords.py)
 | 1909| [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | Easy | [Python](./1909-RemoveOneElementToMakeTheArrayStrictlyIncreasing.py)
 | 1910| [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | Medium | [Python](./1910-RemoveAllOccurrencesOfASubstring.py)
+| 1913| [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Easy | [Python](./1913-MaximumProductDifferenceBetweenTwoPairs.py)
 | 1920| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | [Python](./1920-BuildArrayFromPermutation.py)
 | 1925| [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples) | Easy | [Python](./1925-CountSquareSumTriples.py)
 | 1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | [Python](./1929-ConcatenationOfArray.py)
