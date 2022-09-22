@@ -173,6 +173,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1154| [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | [Python](./1154-DayOfTheYear.py)
 | 1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | Easy | [Python](./1160-FindWordsThatCanBeFormedByCharacters.py)
 | 1185| [Day of the Week](https://leetcode.com/problems/day-of-the-week) | Easy | [Python](./1185-DayOfTheWeek.py)
+| 1189| [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)| Easy | [Python](./1189-MaximumNumberOfBalloons.py)
 | 1207| [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy | [Python](./1207-UniqueNumberOfOccurrences.py)
 | 1217| [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Easy | [Python](./1217-MinimumCostToMoveChipsToTheSamePosition.py)
 | 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | [Python](./1221-SplitAStringInBalancedStrings.py)
