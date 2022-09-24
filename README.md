@@ -238,6 +238,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1379| [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy | [Python](/code/Python/1379-FindACorrespondingNodeOfBinaryTreeInACloneOfThatTree.py)
 | 1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | [Python](/code/Python/1380-LuckyNumbersInAMatrix.py)
 | 1385| [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | Easy | [Python](/code/Python/1385-FindTheDistanceValueBetweenTwoArrays.py) 
+| 1387| [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value) | Medium | [Python](/code/Python/1387-SortIntegersByPowerValue.py)
 | 1393| [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss) | Medium | [SQL](/code/SQL/1393-CapitalGainLoss.sql)
 | 1394| [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | Easy | [Python](/code/Python/1394-FindLuckyIntegerInAnArray.py)
 | 1407| [Top Travellers](https://leetcode.com/problems/top-travellers) | Easy | [SQL](/code/SQL/1407-TopTravellers.sql)
