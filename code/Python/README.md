@@ -331,5 +331,6 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2357| [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | [Python](./2357-MakeArrayZeroBySubstractingEqualAmounts.py)
 |2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | Easy | [Python](./2363-MergeSimilarItems.py)
 | 2367| [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | [Python](./2367-NumberOfArithmeticTriplets.py)
+| 2396| [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](./2396-StrictlyPalindromicNumber.py) 
 | 2404| [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element) | Easy | [Python](./2404-MostFrequentEvenElement.py)
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](./2413-SmallestEvenMultiple.py)
