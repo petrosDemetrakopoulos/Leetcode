@@ -227,6 +227,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 1309| [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | Easy | [Python](/code/Python/1309-DecryptStringFromAlphabetToIntegerMapping.py)
 | 1313| [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | [Python](/code/Python/1313-DecompressRunLengthEncodedList.py)
 | 1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | [Python](/code/Python/1323-Maximum69Number.py)
+| 1324| [Print Words Vertically](https://leetcode.com/problems/print-words-vertically) | Medium | [Python](/code/Python/1324-PrintWordsVertically.py) 
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) | Medium | [Python](/code/Python/1325-DeleteLeavesWithAGivenValue.py)
 | 1337| [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | Easy | [Python](/code/Python/1337-TheKWeakestRowsInAMatrix.py)
 | 1338| [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | Medium | [Python](/code/Python/1338-ReduceArraySizeToTheHalf.py)
