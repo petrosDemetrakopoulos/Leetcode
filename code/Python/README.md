@@ -335,4 +335,5 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2367| [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | [Python](./2367-NumberOfArithmeticTriplets.py)
 | 2396| [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | [Python](./2396-StrictlyPalindromicNumber.py) 
 | 2404| [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element) | Easy | [Python](./2404-MostFrequentEvenElement.py)
-| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](./2413-SmallestEvenMultiple.py)
+| 2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](./2413-SmallestEvenMultiple.py)
+| 2442| [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)| Medium | [Python](./2442-CountNumberOfDistinctIntegersAfterReverseOperations.py)
