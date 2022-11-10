@@ -372,6 +372,7 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2269| [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | Easy | [Python](/code/Python/2269-FindTheK-BeautyOfANumber.py)
 | 2273| [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | Easy | [Python](/code/Python/2273-FindResultantArrayAfterRemovingAnagrams.py)
 | 2278| [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | Easy | [Python](/code/Python/2278-PercentageOfLettersInString.py)
+| 2283| [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | Easy | [Python](/code/Python/2283-CheckIfNumberHasEqualDigitCountAndDigitValue.py)
 | 2299| [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | [Python](/code/Python/2299-StrongPasswordCheckerII.py)
 | 2303| [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes) | Easy | [Python](/code/Python/2303-CalculateAmountPaidInTaxes.py)
 | 2309| [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case) | Easy | [Python](/code/Python/2309-GreatesEnglishLetterInUpperAndLowerCase.py)
