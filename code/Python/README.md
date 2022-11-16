@@ -91,6 +91,7 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | [Python](./347-TopKFrequentElements.py)
 | 349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | [Python](./349-IntersectionOfTwoArrays.py)
 | 350| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | [Python](./350-IntersectionOfTwoArraysII.py) 
+| 367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | [Python](./367-ValidPerfectSquare.py)
 | 374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [Python](./374-GuessNumberHigherOrLower.py)
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | Medium | [Python](./378-KthSmallestElementInASortedMatrix.py)
 | 383| [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | [Python](./383-RansomNote.py)
