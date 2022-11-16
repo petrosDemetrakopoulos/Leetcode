@@ -339,3 +339,4 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 2404| [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element) | Easy | [Python](./2404-MostFrequentEvenElement.py)
 | 2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](./2413-SmallestEvenMultiple.py)
 | 2442| [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)| Medium | [Python](./2442-CountNumberOfDistinctIntegersAfterReverseOperations.py)
+| 2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature)| Easy | [Python](./2469-ConvertTheTemperature.py)
