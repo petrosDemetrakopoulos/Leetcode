@@ -395,3 +395,4 @@ The first column (`Leetcode ID`) has link to the respective problem page at Leet
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | [Python](/code/Python/2413-SmallestEvenMultiple.py)
 | 2442| [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)| Medium | [Python](/code/Python/2442-CountNumberOfDistinctIntegersAfterReverseOperations.py)
 | 2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature)| Easy | [Python](/code/Python/2469-ConvertTheTemperature.py)
+| 2535| [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)| Easy | [Python](/code/Python/2535-Difference%20Between%20ElementSumAndDigitSumOfAnArray.py)
