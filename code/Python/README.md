@@ -209,6 +209,8 @@ Here is the list of the Algorithm tasks that I completed using Python.
 | 1436| [Destination City](https://leetcode.com/problems/destination-city) | Easy | [Python](./1436-DestinationCity.py)
 | 1437| [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | Easy | [Python](./1437-CheckIfAll1sAreAtLeastLengthKPlacesAway.py)
 | 1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | Easy | [Python](./1446-ConsecutiveCharacters.py)
+| 1450| [Number of Students Doing Homework at a Given Time
+](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/) | Easy | [Python](./1450-Number%20of%20StudentsDoingHomeworkAtAGivenTime.py)
 | 1455| [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy | [Python](./1455-CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.py)
 | 1461| [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k) | Medium | [Python](./1461-CheckIfAStringContainsAllBinaryCodesOfSizeK.py)
 | 1464| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | [Python](./1464-MaximumProductOfTwoElementsInAnArray.py)
