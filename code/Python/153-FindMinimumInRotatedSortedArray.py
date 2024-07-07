@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        for i in xrange(len(nums)-1):
+        for i in range(len(nums)-1):
             if nums[i+1] < nums[i]:
                 return nums[i+1]
         return nums[0]
